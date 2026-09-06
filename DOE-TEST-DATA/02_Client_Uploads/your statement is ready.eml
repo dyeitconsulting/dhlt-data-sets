@@ -1,0 +1,12 @@
+From: billing@vendor.com
+To: john.doe@doeconsult.net
+Subject: Your statement is ready
+Date: Tue, 10 Mar 2026 09:05:00 -0500
+Message-ID: <649674959740@mail.local>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+This is an automated notification. Amount: $1,475.29. Reference 8412297.
+
+Do not reply.

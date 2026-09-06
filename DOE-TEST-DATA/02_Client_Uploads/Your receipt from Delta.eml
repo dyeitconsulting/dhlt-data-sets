@@ -1,0 +1,12 @@
+From: billing@vendor.com
+To: john.doe@doeconsult.net
+Subject: Your receipt from Delta
+Date: Tue, 01 Apr 2025 09:05:00 -0500
+Message-ID: <294385041644@mail.local>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+This is an automated notification. Amount: $2,372.32. Reference 2659560.
+
+Do not reply.
