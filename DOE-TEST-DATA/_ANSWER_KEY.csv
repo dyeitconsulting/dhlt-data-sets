@@ -1,0 +1,1001 @@
+filename,true_doc_type,rpd_no,rpd_category,party,doc_date,key_amount,description,planted_issues,file_format
+2020 tax return 1040.pdf,Federal income tax return (Form 1040),1,Tax Returns,Joint,2021-04-12,121400.00,"2020 Form 1040, AGI $121,400.00",,PDF
+2021 tax return 1040.pdf,Federal income tax return (Form 1040),1,Tax Returns,Joint,2022-04-12,133900.00,"2021 Form 1040, AGI $133,900.00",,PDF
+2022 1099-INT Peachtree.pdf,Form 1099-INT,2,Wage and Earnings Records,Plaintiff,2023-01-31,640.20,2022 Form 1099-INT from Peachtree Federal Credit Union,,PDF
+2022 1099-nec marchetti.pdf,Form 1099-NEC,2,Wage and Earnings Records,Plaintiff,2023-01-31,18400.00,2022 Form 1099-NEC from Marchetti Logistics Group,,PDF
+2022 K-1 Doe Consulting.pdf,Schedule K-1,21,Business Financial Records,Plaintiff,2023-03-15,,2022 Schedule K-1 from Doe Consulting LLC,,PDF
+2023 1099-DIV FIDELITY.pdf,Form 1099-DIV,2,Wage and Earnings Records,Plaintiff,2024-01-31,3180.22,2023 Form 1099-DIV from Fidelity Investments,,PDF
+2023 1099-INT Truist.pdf,Form 1099-INT,2,Wage and Earnings Records,Plaintiff,2024-01-31,1240.60,2023 Form 1099-INT from Truist Bank,,PDF
+2023 K-1 Doe Consulting.pdf,Schedule K-1,21,Business Financial Records,Plaintiff,2024-03-15,,2023 Schedule K-1 from Doe Consulting LLC,,PDF
+20230415_056099.png,Photograph,18,Safe Deposit Boxes and Storage,Plaintiff,2023-08-13,,Storage unit 2208 interior,storage_unit,PNG
+20230415_059199.png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2024-02-24,,Screenshot of text thread with Unknown,,PNG
+20230415_170997.png,Photograph,44,"Collectibles, Precious Metals, and Valuables",Plaintiff,2026-05-24,,Rolex Submariner - box and papers,jewelry,PNG
+20230415_188941.pdf,Form 1099-MISC,2,Wage and Earnings Records,Plaintiff,2026-01-31,1842.00,"2025 Form 1099-MISC from Coinbase, Inc.",undisclosed_coinbase,PDF
+2023_amended_return_-_we_need_to_talk.eml,Email,1,Tax Returns,Plaintiff,2026-02-18,,Email: 2023 amended return - we need to talk,sched_c_omitted,EML
+2023_amended_return_1040X.pdf,Amended federal return (Form 1040X),1,Tax Returns,Joint,2025-09-30,179480.00,2023 Form 1040X picking up omitted Schedule C income,sched_c_omitted,PDF
+2024 1099-B Fidelity.pdf,Form 1099-B,2,Wage and Earnings Records,Plaintiff,2025-01-31,18220.00,2024 Form 1099-B from Fidelity Investments,,PDF
+2024 1099-div fidelity.pdf,Form 1099-DIV,2,Wage and Earnings Records,Plaintiff,2025-01-31,3644.90,2024 Form 1099-DIV from Fidelity Investments,,PDF
+2024 1099-INT Ally.pdf,Form 1099-INT,2,Wage and Earnings Records,Plaintiff,2025-01-31,1104.18,2024 Form 1099-INT from Ally Bank,undisclosed_ally,PDF
+2024 1099-K PayPal.pdf,Form 1099-K,17,"Gig, Platform, and Side Income",Plaintiff,2025-01-31,12904.30,"2024 Form 1099-K from PayPal Holdings, Inc.",,PDF
+2024 k-1 doe consulting.pdf,Schedule K-1,21,Business Financial Records,Plaintiff,2025-03-15,,2024 Schedule K-1 from Doe Consulting LLC,,PDF
+2024 tax return 1040.pdf,Federal income tax return (Form 1040),1,Tax Returns,Joint,2025-04-12,159880.00,"2024 Form 1040, AGI $159,880.00",,PDF
+20240902_019171.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2026-03-02,3989.72,"Summit Freight Systems, LLC earnings statement, pay date 2026-03-02",,PDF
+20240902_048907.pdf,Childcare payment record,39,Childcare Providers and Household Employees,Child,2025-08-01,361.86,Payment to household caregiver Tia Nwosu,,PDF
+20240902_083982.pdf,Mortgage statement,11,"Mortgage, HELOC, and Home Equity Records",Joint,2024-11-28,305819.42,Rocket Mortgage monthly statement,,PDF
+20240902_105161.heic,Photograph,44,"Collectibles, Precious Metals, and Valuables",Plaintiff,2023-11-27,,Yamaha 242X at Lake Lanier slip,jewelry,HEIC
+20240902_136332.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2023-09-28,5812.98,DUPLICATE of truist checking sep 2023.pdf,duplicate,PDF
+20240902_159762.jpg,Photograph,44,"Collectibles, Precious Metals, and Valuables",Plaintiff,2026-06-27,,Gold Eagle coins and silver bars,cash_withdrawals,JPG
+20240902_229664.xlsx,Income receipts log,16,Comprehensive Income Documentation,Plaintiff,2025-12-31,,Line-item log of every deposit and its source for 2025,gig_income; undisclosed_ally,XLSX
+2025 1099-int ally.pdf,Form 1099-INT,2,Wage and Earnings Records,Plaintiff,2026-01-31,2891.44,2025 Form 1099-INT from Ally Bank,undisclosed_ally,PDF
+"2025 1099-K DOORDASH,.pdf",Form 1099-K,17,"Gig, Platform, and Side Income",Plaintiff,2026-01-31,9440.55,"2025 Form 1099-K from DoorDash, Inc.",gig_income,PDF
+"2025 1099-K Turo,.pdf",Form 1099-K,17,"Gig, Platform, and Side Income",Plaintiff,2026-01-31,6120.00,"2025 Form 1099-K from Turo, Inc.",gig_income,PDF
+2025 1099-R FIDELITY.pdf,Form 1099-R,3,Retirement and Deferred Compensation,Plaintiff,2026-01-31,22000.00,2025 Form 1099-R from Fidelity NetBenefits,,PDF
+2025 Dasher earnings summary.eml,Email,17,"Gig, Platform, and Side Income",Plaintiff,2026-02-18,,Email: 2025 Dasher earnings summary,gig_income,EML
+2025 K-1 Doe Consulting.pdf,Schedule K-1,21,Business Financial Records,Plaintiff,2026-03-15,,2025 Schedule K-1 from Doe Consulting LLC,,PDF
+2025 tax return 1040.pdf,Federal income tax return (Form 1040),1,Tax Returns,Joint,2026-04-12,171450.00,"2025 Form 1040, AGI $171,450.00",,PDF
+20250118_091158.pdf,Cell phone bill with call detail,32,Cellular Telephone Records,Joint,2023-04-28,279.59,Verizon Wireless statement,,PDF
+20250118_094529.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2025-03-22,102617.42,Chase Sapphire ...6621 statement closing 2025-03-22,,PDF
+20250118_097987.png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2025-04-24,,Screenshot of text thread with Kevin A,,PNG
+20250118_126103.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2024-12-23,3989.72,"Summit Freight Systems, LLC earnings statement, pay date 2024-12-23",,PDF
+20250118_128094.pdf,Purchase receipt,44,"Collectibles, Precious Metals, and Valuables",Plaintiff,2022-11-05,22051.59,"Bass Pro Shops receipt, $22,051.59",,PDF
+20251203_031293.pdf,Loan statement,13,"Debts, Loans, and Guaranties",Plaintiff,2023-04-28,40712.02,Ally Financial Auto Loan statement,,PDF
+20251203_046048.pdf,"Record of gift, inheritance, or settlement received",42,Gifts and Inheritances Received,Plaintiff,2018-06-04,12000.00,Gift from Harold R. Doe toward home purchase,separate_property_tracing,PDF
+20251203_091374.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2023-11-28,31200.18,COPY 1 of 2 - Truist Bank ...8819 November 2023,conflicting_copies,PDF
+20251203_205102.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2025-03-28,169532.30,"Fidelity NetBenefits 401(k) statement, quarter ending 2025-03-28",,PDF
+20251203_216801.jpeg,Photograph,46,"Travel, Vacation, and Entertainment",Plaintiff,2023-03-10,,Cabo San Lucas - Hotel El Ganzo,gf_transfers,JPEG
+20251203_219006.heic,Photograph,18,Safe Deposit Boxes and Storage,Plaintiff,2024-07-01,,Storage unit 2208 interior,storage_unit,HEIC
+20260112_065611.pdf,Blank or illegible scan,,,Unknown,,,"Blank page - no content, no text layer",blank_scan,PDF
+20260112_112853 - Copy.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2021-09-28,14046.54,DUPLICATE of 20260112_112853.pdf,duplicate,PDF
+20260112_112853.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2021-09-28,14046.54,Peachtree Federal Credit Union Money Market ...9930 statement September 2021,,PDF
+529 ethan 2023.pdf,529 plan statement,37,Education Savings Accounts,Child,2023-12-31,,"Path2College 529 for Ethan Doe, 2023",,PDF
+529 ethan 2024.pdf,529 plan statement,37,Education Savings Accounts,Child,2024-12-31,,"Path2College 529 for Ethan Doe, 2024",,PDF
+529 ethan 2025.pdf,529 plan statement,37,Education Savings Accounts,Child,2025-12-31,,"Path2College 529 for Ethan Doe, 2025",,PDF
+529 olivia 2023.pdf,529 plan statement,37,Education Savings Accounts,Child,2023-12-31,,"Path2College 529 for Olivia Doe, 2023",,PDF
+529 olivia 2024.pdf,529 plan statement,37,Education Savings Accounts,Child,2024-12-31,,"Path2College 529 for Olivia Doe, 2024",,PDF
+529 olivia 2025.pdf,529 plan statement,37,Education Savings Accounts,Child,2025-12-31,,"Path2College 529 for Olivia Doe, 2025",,PDF
+aaa (2).pdf,Medical bill / EOB,36,Child-Related Expenses Under the Guidelines,Child,2023-01-15,239.13,Northlake Counseling Group - Explanation of Benefits for Olivia Doe,,PDF
+aaa (3).pdf,Scanned document (no text layer),19,Financial and Net Worth Statements,Plaintiff,,,Handwritten note found in the file,undisclosed_ally; undisclosed_coinbase; undisclosed_robinhood; undisclosed_roth,PDF
+aaa (4).pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2023-09-28,-44875.50,DUPLICATE of truist savings sep 2023.pdf,overdrawn; duplicate,PDF
+aaa.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2024-06-28,171797.39,"Fidelity NetBenefits 401(k) statement, quarter ending 2024-06-28",,PDF
+aaa.png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2026-01-11,,Screenshot of text thread with Danny (brother),,PNG
+ACME SEVERANCE AGREEMENT 2024.pdf,Severance agreement,26,Severance and Separation Packages,Plaintiff,2024-02-16,34671.95,Acme separation agreement and release,,PDF
+all_income_received_2024 final.xlsx,Income receipts log,16,Comprehensive Income Documentation,Plaintiff,2024-12-31,,Line-item log of every deposit and its source for 2024,gig_income; undisclosed_ally,XLSX
+ally aug 2024.pdf,Loan statement,13,"Debts, Loans, and Guaranties",Plaintiff,2024-08-28,37521.78,Ally Financial Auto Loan statement,,PDF
+ally dec 2023.pdf,Loan statement,13,"Debts, Loans, and Guaranties",Plaintiff,2023-12-28,39776.22,Ally Financial Auto Loan statement,,PDF
+ally feb 2025.pdf,Loan statement,13,"Debts, Loans, and Guaranties",Plaintiff,2025-02-28,37232.93,Ally Financial Auto Loan statement,,PDF
+ally jan 2024.pdf,Loan statement,13,"Debts, Loans, and Guaranties",Plaintiff,2024-01-28,38960.85,Ally Financial Auto Loan statement,,PDF
+ally jul 2023.pdf,Loan statement,13,"Debts, Loans, and Guaranties",Plaintiff,2023-07-28,39990.79,Ally Financial Auto Loan statement,,PDF
+ally jul 2025.pdf,Loan statement,13,"Debts, Loans, and Guaranties",Plaintiff,2025-07-28,36438.01,Ally Financial Auto Loan statement,,PDF
+ally nov 2025.pdf,Loan statement,13,"Debts, Loans, and Guaranties",Plaintiff,2025-11-28,35028.85,Ally Financial Auto Loan statement,,PDF
+ally online savings apr 2024.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-04-28,19242.51,Ally Bank Online Savings ...5561 statement April 2024,undisclosed_ally,PDF
+ally online savings aug 2024 v2.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-08-28,10909.50,Ally Bank Online Savings ...5561 statement August 2024,undisclosed_ally,PDF
+ally online savings dec 2024.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-12-28,-3890.97,Ally Bank Online Savings ...5561 statement December 2024,overdrawn; undisclosed_ally,PDF
+ally online savings dec 2025 - Copy.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2025-12-28,-26268.74,DUPLICATE of ally online savings dec 2025.pdf,overdrawn; undisclosed_ally; duplicate,PDF
+ally online savings dec 2025.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2025-12-28,-26268.74,Ally Bank Online Savings ...5561 statement December 2025,overdrawn; undisclosed_ally,PDF
+ally online savings feb 2024.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-02-28,22522.26,Ally Bank Online Savings ...5561 statement February 2024,undisclosed_ally,PDF
+ally online savings jan 2026.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2026-01-28,-30445.27,Ally Bank Online Savings ...5561 statement January 2026,overdrawn; undisclosed_ally,PDF
+ally online savings jun 2024 (2).pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-06-28,13038.74,DUPLICATE of ally online savings jun 2024.pdf,undisclosed_ally; duplicate,PDF
+ally online savings jun 2024.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-06-28,13038.74,Ally Bank Online Savings ...5561 statement June 2024,undisclosed_ally,PDF
+ally online savings mar 2026.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2026-03-28,-36316.86,Ally Bank Online Savings ...5561 statement March 2026,overdrawn; undisclosed_ally,PDF
+ally online savings oct 2024.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-10-28,4995.56,Ally Bank Online Savings ...5561 statement October 2024,undisclosed_ally,PDF
+ally online savings oct 2025.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2025-10-28,-23688.62,Ally Bank Online Savings ...5561 statement October 2025,overdrawn; undisclosed_ally,PDF
+ally online savings oct 2025_1.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2025-10-28,-23688.62,DUPLICATE of ally online savings oct 2025.pdf,overdrawn; undisclosed_ally; duplicate,PDF
+ally online savings sep 2025.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2025-09-28,-20668.47,Ally Bank Online Savings ...5561 statement September 2025,overdrawn; undisclosed_ally,PDF
+ally_online_savings_aug_2024_v2_-_Copy_(2).pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-08-28,10909.50,DUPLICATE of ally online savings aug 2024 v2.pdf,undisclosed_ally; duplicate,PDF
+american apr 2022.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2022-04-22,28237.19,American Express Blue Cash ...91007 statement closing 2022-04-22,,PDF
+american feb 2022.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2022-02-22,16020.78,American Express Blue Cash ...91007 statement closing 2022-02-22,,PDF
+american feb 2023.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2023-02-22,47331.33,American Express Blue Cash ...91007 statement closing 2023-02-22,,PDF
+american jun 2022.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2022-06-22,38414.29,American Express Blue Cash ...91007 statement closing 2022-06-22,,PDF
+american jun 2023.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2023-06-22,55446.28,American Express Blue Cash ...91007 statement closing 2023-06-22,,PDF
+american mar 2022.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2022-03-22,24844.51,American Express Blue Cash ...91007 statement closing 2022-03-22,,PDF
+AMERICAN MAY 2022.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2022-05-22,33372.26,American Express Blue Cash ...91007 statement closing 2022-05-22,,PDF
+american nov 2022.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2022-11-22,46693.58,American Express Blue Cash ...91007 statement closing 2022-11-22,,PDF
+american year end summary 2024.xlsx,Credit card year-end summary,5,Credit Cards and Charge Accounts,Plaintiff,2024-12-31,,American Express Blue Cash ...91007 2024 spend summary by category,,XLSX
+AMERICAN YEAR END SUMMARY 2025.xlsx,Credit card year-end summary,5,Credit Cards and Charge Accounts,Plaintiff,2025-12-31,,American Express Blue Cash ...91007 2025 spend summary by category,,XLSX
+APARTMENT LEASE DULUTH 2025.pdf,Residential lease,23,Residential Leases,Plaintiff,2025-04-01,2145.00,Post-separation apartment lease naming a second adult resident,gf_transfers,PDF
+apple_receipt_2023-07.pdf,Purchase receipt,43,Purchases and Sales Exceeding $100,Plaintiff,2023-07-14,9789.11,"Apple Store Perimeter receipt, $9,789.11",,PDF
+Appointment reminder (2).eml,Email,49,Communications Between the Parties and Third Parties,Third party,2026-03-10,,Routine notification email: Appointment reminder,,EML
+APPOINTMENT REMINDER (3).eml,Email,49,Communications Between the Parties and Third Parties,Third party,2026-03-10,,Routine notification email: Appointment reminder,,EML
+APPOINTMENT REMINDER.eml,Email,49,Communications Between the Parties and Third Parties,Third party,2024-03-06,,Routine notification email: Appointment reminder,,EML
+ARTICLES OF ORGANIZATION DOE CONSULTING.pdf,Articles of organization,20,Business Organization Agreements,Doe Consulting LLC,2021-05-17,,Georgia SOS filing,,PDF
+asdf.csv,Bank transaction export,4,Bank and Depository Accounts,Plaintiff,2023-12-31,,Peachtree Federal Credit Union ...9930 2023 transaction download,,CSV
+asdf.pdf,Merchant processor payout statement,22,Business Bank and Merchant Accounts,Doe Consulting LLC,2023-11-28,14175.13,Stripe payout summary November 2023,,PDF
+attorney fee payment receipt 1.pdf,Attorney fee payment receipt,13,"Debts, Loans, and Guaranties",Plaintiff,2025-06-08,3500.00,Retainer payment receipt,,PDF
+attorney fee payment receipt 2.pdf,Attorney fee payment receipt,13,"Debts, Loans, and Guaranties",Plaintiff,2026-03-12,7500.00,Retainer payment receipt,,PDF
+attorney fee payment receipt 3.pdf,Attorney fee payment receipt,13,"Debts, Loans, and Guaranties",Plaintiff,2025-11-04,5000.00,Retainer payment receipt,,PDF
+attorney fee payment receipt 4.pdf,Attorney fee payment receipt,13,"Debts, Loans, and Guaranties",Plaintiff,2026-03-12,2500.00,Retainer payment receipt,,PDF
+attorney fee payment receipt 5.pdf,Attorney fee payment receipt,13,"Debts, Loans, and Guaranties",Plaintiff,2026-03-12,2500.00,Retainer payment receipt,,PDF
+attorney fee payment receipt 6.pdf,Attorney fee payment receipt,13,"Debts, Loans, and Guaranties",Plaintiff,2026-03-12,7500.00,Retainer payment receipt,,PDF
+Autopay scheduled.eml,Email,49,Communications Between the Parties and Third Parties,Third party,2026-03-10,,Routine notification email: Autopay scheduled,,EML
+AUTOPAY_SCHEDULED (2).eml,Email,49,Communications Between the Parties and Third Parties,Third party,2026-01-04,,Routine notification email: Autopay scheduled,,EML
+AUTOPAY_SCHEDULED.eml,Email,49,Communications Between the Parties and Third Parties,Third party,2025-12-12,,Routine notification email: Autopay scheduled,,EML
+barclays apr 2023.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2023-04-22,34999.37,Barclays AAdvantage Aviator ...1190 statement closing 2023-04-22,undisclosed_barclays,PDF
+barclays aug 2022.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2022-08-22,15088.49,Barclays AAdvantage Aviator ...1190 statement closing 2022-08-22,undisclosed_barclays,PDF
+barclays aug 2024.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2024-08-22,35893.02,Barclays AAdvantage Aviator ...1190 statement closing 2024-08-22,undisclosed_barclays,PDF
+barclays dec 2024 final.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2024-12-22,43662.80,Barclays AAdvantage Aviator ...1190 statement closing 2024-12-22,undisclosed_barclays,PDF
+BARCLAYS FEB 2022.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2022-02-22,8925.37,Barclays AAdvantage Aviator ...1190 statement closing 2022-02-22,undisclosed_barclays,PDF
+barclays jan 2023.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2023-01-22,27499.56,Barclays AAdvantage Aviator ...1190 statement closing 2023-01-22,undisclosed_barclays,PDF
+barclays mar 2022.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2022-03-22,13994.87,Barclays AAdvantage Aviator ...1190 statement closing 2022-03-22,undisclosed_barclays,PDF
+barclays may 2025.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2025-05-22,52641.12,Barclays AAdvantage Aviator ...1190 statement closing 2025-05-22,undisclosed_barclays,PDF
+barclays oct 2025.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2025-10-22,65098.42,Barclays AAdvantage Aviator ...1190 statement closing 2025-10-22,undisclosed_barclays,PDF
+barclays sep 2022.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2022-09-22,21830.69,Barclays AAdvantage Aviator ...1190 statement closing 2022-09-22,undisclosed_barclays,PDF
+barclays sep 2025.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2025-09-22,59983.23,Barclays AAdvantage Aviator ...1190 statement closing 2025-09-22,undisclosed_barclays,PDF
+barclays_mar_2025 (1).pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2025-03-22,47783.20,Barclays AAdvantage Aviator ...1190 statement closing 2025-03-22,undisclosed_barclays,PDF
+best receipt 2023-08.pdf,Purchase receipt,43,Purchases and Sales Exceeding $100,Plaintiff,2023-08-05,10187.73,"Best Buy receipt, $10,187.73",,PDF
+blue health dec page 2023 v2.pdf,Insurance declarations page,33,Insurance Policies,Joint,2023-03-01,,Blue Cross Blue Shield of Georgia Health PPO declarations page 2023,,PDF
+blue health dec page 2024.pdf,Insurance declarations page,33,Insurance Policies,Joint,2024-03-01,,Blue Cross Blue Shield of Georgia Health PPO declarations page 2024,,PDF
+blue health dec page 2025.pdf,Insurance declarations page,33,Insurance Policies,Joint,2025-03-01,,Blue Cross Blue Shield of Georgia Health PPO declarations page 2025,,PDF
+Cabo.eml,Email,46,"Travel, Vacation, and Entertainment",Plaintiff,2026-02-18,,Email: Cabo,gf_transfers,EML
+calendar export 2025.xlsx,Calendar export,46,"Travel, Vacation, and Entertainment",Plaintiff,2025-12-31,,2025 calendar and travel log export,,XLSX
+calendar_export_2024.xlsx,Calendar export,46,"Travel, Vacation, and Entertainment",Plaintiff,2024-12-31,,2024 calendar and travel log export,,XLSX
+camp highland 2026 deposit due.eml,Email,36,Child-Related Expenses Under the Guidelines,Plaintiff,2025-07-24,,Email: Camp Highland 2026 deposit due,,EML
+camp invoice 2022-01.pdf,Child activity / school invoice,36,Child-Related Expenses Under the Guidelines,Child,2022-01-05,388.09,Camp Highland - Summer Camp for Ethan Doe,,PDF
+camp invoice 2022-10.pdf,Child activity / school invoice,36,Child-Related Expenses Under the Guidelines,Child,2022-10-14,1945.95,Camp Highland - Summer Camp for Ethan Doe,,PDF
+camp invoice 2022-11.pdf,Child activity / school invoice,36,Child-Related Expenses Under the Guidelines,Child,2022-11-23,1362.97,Camp Highland - Summer Camp for Ethan Doe,,PDF
+camp invoice 2023-06.pdf,Child activity / school invoice,36,Child-Related Expenses Under the Guidelines,Child,2023-06-24,123.98,Camp Highland - Summer Camp for Ethan Doe,,PDF
+camp invoice 2024-04 (2).pdf,Child activity / school invoice,36,Child-Related Expenses Under the Guidelines,Child,2024-04-05,676.02,Camp Highland - Summer Camp for Ethan Doe,,PDF
+camp invoice 2026-03.pdf,Child activity / school invoice,36,Child-Related Expenses Under the Guidelines,Child,2026-03-15,726.63,Camp Highland - Summer Camp for Ethan Doe,,PDF
+camping receipt 2023-07.pdf,Purchase receipt,44,"Collectibles, Precious Metals, and Valuables",Plaintiff,2023-07-07,14324.64,"Camping World receipt, $14,324.64",,PDF
+capital apr 2022.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2022-04-22,20839.66,Capital One Venture ...3388 statement closing 2022-04-22,,PDF
+capital aug 2022.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2022-08-22,24722.91,Capital One Venture ...3388 statement closing 2022-08-22,,PDF
+capital aug 2025.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2025-08-22,88524.03,Capital One Venture ...3388 statement closing 2025-08-22,,PDF
+capital dec 2024.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2024-12-22,68349.83,Capital One Venture ...3388 statement closing 2024-12-22,,PDF
+capital feb 2023.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2023-02-22,35936.89,Capital One Venture ...3388 statement closing 2023-02-22,,PDF
+capital jan 2025.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2025-01-22,72949.74,Capital One Venture ...3388 statement closing 2025-01-22,,PDF
+capital mar 2022.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2022-03-22,15758.79,Capital One Venture ...3388 statement closing 2022-03-22,,PDF
+capital may 2023.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2023-05-22,40438.95,Capital One Venture ...3388 statement closing 2023-05-22,,PDF
+capital may 2024.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2024-05-22,52401.28,Capital One Venture ...3388 statement closing 2024-05-22,,PDF
+capital oct 2022.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2022-10-22,31022.72,Capital One Venture ...3388 statement closing 2022-10-22,,PDF
+capital year end summary 2023.xlsx,Credit card year-end summary,5,Credit Cards and Charge Accounts,Plaintiff,2023-12-31,,Capital One Venture ...3388 2023 spend summary by category,,XLSX
+capital year end summary 2024.xlsx,Credit card year-end summary,5,Credit Cards and Charge Accounts,Plaintiff,2024-12-31,,Capital One Venture ...3388 2024 spend summary by category,,XLSX
+capital year end summary 2025.xlsx,Credit card year-end summary,5,Credit Cards and Charge Accounts,Plaintiff,2025-12-31,,Capital One Venture ...3388 2025 spend summary by category,,XLSX
+capital_jan_2026.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2026-01-22,108389.77,Capital One Venture ...3388 statement closing 2026-01-22,gf_transfers,PDF
+capital_may_2025.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2025-05-22,80087.15,Capital One Venture ...3388 statement closing 2025-05-22,,PDF
+cash history Q1 2025.pdf,Peer-to-peer payment history,6,Peer-to-Peer Payment and Digital Wallet Records,Plaintiff,2025-03-28,,Cash App transaction history 2025-01-01 to 2025-03-28,gf_transfers,PDF
+cash history Q1 2026.pdf,Peer-to-peer payment history,6,Peer-to-Peer Payment and Digital Wallet Records,Plaintiff,2026-03-28,,Cash App transaction history 2026-01-01 to 2026-03-28,gf_transfers,PDF
+cash history Q3 2024.pdf,Peer-to-peer payment history,6,Peer-to-Peer Payment and Digital Wallet Records,Plaintiff,2024-09-28,,Cash App transaction history 2024-07-01 to 2024-09-28,,PDF
+cash history Q4 2025.pdf,Peer-to-peer payment history,6,Peer-to-Peer Payment and Digital Wallet Records,Plaintiff,2025-12-28,,Cash App transaction history 2025-10-01 to 2025-12-28,gf_transfers,PDF
+cash_history_q3_2022.pdf,Peer-to-peer payment history,6,Peer-to-Peer Payment and Digital Wallet Records,Plaintiff,2022-09-28,,Cash App transaction history 2022-07-01 to 2022-09-28,,PDF
+CHARLES ROTH IRA Q1 2021.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2021-03-28,31594.36,"Charles Schwab Roth IRA statement, quarter ending 2021-03-28",undisclosed_roth,PDF
+charles roth ira Q1 2023.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2023-03-28,33356.74,"Charles Schwab Roth IRA statement, quarter ending 2023-03-28",undisclosed_roth,PDF
+charles roth ira Q1 2024.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2024-03-28,33518.52,"Charles Schwab Roth IRA statement, quarter ending 2024-03-28",undisclosed_roth,PDF
+charles roth ira Q1 2026.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2026-03-28,34114.29,"Charles Schwab Roth IRA statement, quarter ending 2026-03-28",undisclosed_roth,PDF
+charles roth ira q2 2022.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2022-06-28,31995.75,"Charles Schwab Roth IRA statement, quarter ending 2022-06-28",undisclosed_roth,PDF
+charles roth ira Q2 2023.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2023-06-28,32827.27,"Charles Schwab Roth IRA statement, quarter ending 2023-06-28",undisclosed_roth,PDF
+charles roth ira Q3 2021.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2021-09-28,31730.88,"Charles Schwab Roth IRA statement, quarter ending 2021-09-28",undisclosed_roth,PDF
+charles roth ira Q4 2023.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2023-12-28,34002.48,"Charles Schwab Roth IRA statement, quarter ending 2023-12-28",undisclosed_roth,PDF
+charles roth ira Q4 2024.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2024-12-28,33376.38,"Charles Schwab Roth IRA statement, quarter ending 2024-12-28",undisclosed_roth,PDF
+charles roth ira q4 2025.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2025-12-28,32385.57,"Charles Schwab Roth IRA statement, quarter ending 2025-12-28",undisclosed_roth,PDF
+chase apr 2023.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2023-04-22,49975.26,Chase Sapphire ...6621 statement closing 2023-04-22,,PDF
+CHASE AUG 2024.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2024-08-22,69066.42,Chase Sapphire ...6621 statement closing 2024-08-22,,PDF
+chase aug 2025.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2025-08-22,108354.65,Chase Sapphire ...6621 statement closing 2025-08-22,,PDF
+chase dec 2022.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2022-12-22,35447.36,Chase Sapphire ...6621 statement closing 2022-12-22,,PDF
+chase dec 2025 FINAL.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2025-12-22,113325.66,Chase Sapphire ...6621 statement closing 2025-12-22,,PDF
+CHASE FEB 2024.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2024-02-22,61331.28,Chase Sapphire ...6621 statement closing 2024-02-22,,PDF
+chase feb 2025.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2025-02-22,96653.96,Chase Sapphire ...6621 statement closing 2025-02-22,,PDF
+chase jan 2025 FINAL.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2025-01-22,90826.91,Chase Sapphire ...6621 statement closing 2025-01-22,,PDF
+chase may 2025.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2025-05-22,99483.23,Chase Sapphire ...6621 statement closing 2025-05-22,,PDF
+CHASE NOV 2022.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2022-11-22,31303.34,Chase Sapphire ...6621 statement closing 2022-11-22,,PDF
+chase oct 2023.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2023-10-22,61637.77,Chase Sapphire ...6621 statement closing 2023-10-22,,PDF
+chase sep 2022 v2.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2022-09-22,26871.48,Chase Sapphire ...6621 statement closing 2022-09-22,,PDF
+chase year end summary 2023.xlsx,Credit card year-end summary,5,Credit Cards and Charge Accounts,Plaintiff,2023-12-31,,Chase Sapphire ...6621 2023 spend summary by category,,XLSX
+chase year end summary 2025.xlsx,Credit card year-end summary,5,Credit Cards and Charge Accounts,Plaintiff,2025-12-31,,Chase Sapphire ...6621 2025 spend summary by category,,XLSX
+chase_oct_2024.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2024-10-22,75239.45,Chase Sapphire ...6621 statement closing 2024-10-22,,PDF
+chase_year_end_summary_2024.xlsx,Credit card year-end summary,5,Credit Cards and Charge Accounts,Plaintiff,2024-12-31,,Chase Sapphire ...6621 2024 spend summary by category,,XLSX
+chevrolet certificate.pdf,Certificate of Title,12,"Vehicles, Boats, and Titled Property",Plaintiff,2023-05-02,18200.00,Certificate of Title for 2016 Chevrolet Silverado 1500,,PDF
+CHEVROLET TAG.pdf,Tag and Registration Certificate,12,"Vehicles, Boats, and Titled Property",Plaintiff,2023-05-02,18200.00,Tag and Registration Certificate for 2016 Chevrolet Silverado 1500,,PDF
+child expense tracker v2.xlsx,Child expense tracker,36,Child-Related Expenses Under the Guidelines,Child,2026-03-22,,Running tracker of child expenses and reimbursement requests,,XLSX
+church contribution statement 2022.pdf,Charitable contribution statement,48,Charitable Contributions and Memberships,Joint,2023-01-20,1250.53,2022 annual giving statement,,PDF
+church contribution statement 2023.pdf,Charitable contribution statement,48,Charitable Contributions and Memberships,Joint,2024-01-20,3868.76,2023 annual giving statement,,PDF
+church contribution statement 2024.pdf,Charitable contribution statement,48,Charitable Contributions and Memberships,Joint,2025-01-20,6296.60,2024 annual giving statement,,PDF
+coinbase apr 2025.pdf,Cryptocurrency exchange statement,7,Cryptocurrency and Digital Assets,Plaintiff,2025-04-28,19025.55,Coinbase account statement,undisclosed_coinbase,PDF
+COINBASE AUG 2024.pdf,Cryptocurrency exchange statement,7,Cryptocurrency and Digital Assets,Plaintiff,2024-08-28,5088.32,Coinbase account statement,undisclosed_coinbase,PDF
+coinbase dec 2025.pdf,Cryptocurrency exchange statement,7,Cryptocurrency and Digital Assets,Plaintiff,2025-12-28,31763.24,Coinbase account statement,undisclosed_coinbase,PDF
+COINBASE FEB 2025.pdf,Cryptocurrency exchange statement,7,Cryptocurrency and Digital Assets,Plaintiff,2025-02-28,13249.10,Coinbase account statement,undisclosed_coinbase,PDF
+COINBASE JUL 2024.pdf,Cryptocurrency exchange statement,7,Cryptocurrency and Digital Assets,Plaintiff,2024-07-28,5053.74,Coinbase account statement,undisclosed_coinbase,PDF
+coinbase jun 2025.pdf,Cryptocurrency exchange statement,7,Cryptocurrency and Digital Assets,Plaintiff,2025-06-28,20884.53,Coinbase account statement,undisclosed_coinbase,PDF
+coinbase mar 2025.pdf,Cryptocurrency exchange statement,7,Cryptocurrency and Digital Assets,Plaintiff,2025-03-28,16467.72,Coinbase account statement,undisclosed_coinbase,PDF
+coinbase may 2025.pdf,Cryptocurrency exchange statement,7,Cryptocurrency and Digital Assets,Plaintiff,2025-05-28,20598.76,Coinbase account statement,undisclosed_coinbase,PDF
+coinbase nov 2024.pdf,Cryptocurrency exchange statement,7,Cryptocurrency and Digital Assets,Plaintiff,2024-11-28,6195.49,Coinbase account statement,undisclosed_coinbase,PDF
+coinbase sep 2024.pdf,Cryptocurrency exchange statement,7,Cryptocurrency and Digital Assets,Plaintiff,2024-09-28,5064.97,Coinbase account statement,undisclosed_coinbase,PDF
+COINBASE SEP 2025.pdf,Cryptocurrency exchange statement,7,Cryptocurrency and Digital Assets,Plaintiff,2025-09-28,24073.25,Coinbase account statement,undisclosed_coinbase,PDF
+coinbase transaction export.csv,Cryptocurrency transaction export,7,Cryptocurrency and Digital Assets,Plaintiff,2026-03-01,,Coinbase full transaction history CSV export,undisclosed_coinbase; crypto_transfer,CSV
+coinbase_dec_2024.pdf,Cryptocurrency exchange statement,7,Cryptocurrency and Digital Assets,Plaintiff,2024-12-28,7733.75,Coinbase account statement,undisclosed_coinbase,PDF
+coinbase_oct_2025.pdf,Cryptocurrency exchange statement,7,Cryptocurrency and Digital Assets,Plaintiff,2025-10-28,27665.95,Coinbase account statement,undisclosed_coinbase,PDF
+COSTCO RECEIPT 2023-01.pdf,Purchase receipt,43,Purchases and Sales Exceeding $100,Plaintiff,2023-01-19,9500.64,"Costco Wholesale receipt, $9,500.64",,PDF
+costco receipt 2024-06.pdf,Purchase receipt,43,Purchases and Sales Exceeding $100,Plaintiff,2024-06-14,6106.54,"Costco Wholesale receipt, $6,106.54",,PDF
+credit report experian.pdf,Consumer credit report,13,"Debts, Loans, and Guaranties",Plaintiff,2026-03-02,,Experian credit report showing undisclosed accounts,undisclosed_barclays; heloc_draw,PDF
+DEED TO SECURE DEBT 2018.pdf,Deed to Secure Debt,10,Deeds and Security Instruments,Joint,2018-06-22,324900.00,"Deed to Secure Debt recorded 2018-06-22, Book 56144 Page 0230",,PDF
+DEED TO SECURE DEBT 2022.pdf,Deed to Secure Debt,10,Deeds and Security Instruments,Joint,2022-08-04,75000.00,"Deed to Secure Debt recorded 2022-08-04, Book 60912 Page 1188",,PDF
+discover aug 2023.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2023-08-22,39178.10,Discover it ...4102 statement closing 2023-08-22,,PDF
+discover aug 2025.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2025-08-22,78808.23,Discover it ...4102 statement closing 2025-08-22,gf_transfers,PDF
+discover dec 2024.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2024-12-22,80383.80,Discover it ...4102 statement closing 2024-12-22,,PDF
+discover jul 2024.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2024-07-22,64601.32,Discover it ...4102 statement closing 2024-07-22,,PDF
+discover nov 2022.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2022-11-22,18853.71,Discover it ...4102 statement closing 2022-11-22,,PDF
+discover oct 2023.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2023-10-22,45509.07,Discover it ...4102 statement closing 2023-10-22,,PDF
+discover oct 2024.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2024-10-22,71839.10,Discover it ...4102 statement closing 2024-10-22,,PDF
+discover year end summary 2023.xlsx,Credit card year-end summary,5,Credit Cards and Charge Accounts,Plaintiff,2023-12-31,,Discover it ...4102 2023 spend summary by category,,XLSX
+discover year end summary 2024.xlsx,Credit card year-end summary,5,Credit Cards and Charge Accounts,Plaintiff,2024-12-31,,Discover it ...4102 2024 spend summary by category,,XLSX
+discover year end summary 2025.xlsx,Credit card year-end summary,5,Credit Cards and Charge Accounts,Plaintiff,2025-12-31,,Discover it ...4102 2025 spend summary by category,,XLSX
+discover_may_2023.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2023-05-22,34886.57,Discover it ...4102 statement closing 2023-05-22,,PDF
+Distribution from the Estate of Margueri.pdf,"Record of gift, inheritance, or settlement received",42,Gifts and Inheritances Received,Plaintiff,2023-08-22,48200.00,Distribution from the Estate of Marguerite A. Doe,separate_property_tracing,PDF
+DOC1 - COPY (2).pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2022-06-28,7355.42,DUPLICATE of Doc1.pdf,duplicate,PDF
+Doc10.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2022-07-22,17696.41,Synchrony / Lowe's Advantage ...7745 statement closing 2022-07-22,,PDF
+Doc11.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2020-09-23,2823.70,"Acme Logistics, Inc. earnings statement, pay date 2020-09-23",,PDF
+Doc12.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2020-12-02,2823.70,"Acme Logistics, Inc. earnings statement, pay date 2020-12-02",,PDF
+Doc13.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2021-05-19,2823.70,"Acme Logistics, Inc. earnings statement, pay date 2021-05-19",,PDF
+Doc15.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2021-06-28,152853.12,"Fidelity NetBenefits 401(k) statement, quarter ending 2021-06-28",,PDF
+Doc16.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2022-09-28,155152.10,"Fidelity NetBenefits 401(k) statement, quarter ending 2022-09-28",,PDF
+Doc17.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2023-09-28,163745.75,"Fidelity NetBenefits 401(k) statement, quarter ending 2023-09-28",,PDF
+Doc18.pdf,Cryptocurrency exchange statement,7,Cryptocurrency and Digital Assets,Plaintiff,2025-08-28,22808.51,Coinbase account statement,undisclosed_coinbase,PDF
+Doc19.pdf,Peer-to-peer payment history,6,Peer-to-Peer Payment and Digital Wallet Records,Plaintiff,2022-06-28,,Venmo transaction history 2022-04-01 to 2022-06-28,,PDF
+Doc2.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2023-10-28,-47867.26,Truist Bank Savings ...8819 statement October 2023,overdrawn,PDF
+Doc20.pdf,Peer-to-peer payment history,6,Peer-to-Peer Payment and Digital Wallet Records,Plaintiff,2024-03-28,,Cash App transaction history 2024-01-01 to 2024-03-28,,PDF
+Doc21.pdf,Peer-to-peer payment history,6,Peer-to-Peer Payment and Digital Wallet Records,Plaintiff,2025-12-28,,PayPal transaction history 2025-10-01 to 2025-12-28,gf_transfers,PDF
+Doc22.pdf,Mortgage statement,11,"Mortgage, HELOC, and Home Equity Records",Joint,2022-09-28,314656.15,Rocket Mortgage monthly statement,,PDF
+Doc24.pdf,Loan statement,14,Student Loans and Educational Debt,Plaintiff,2025-02-28,23379.05,Navient Student Loan statement,,PDF
+Doc26.docx,Proposed parenting plan,38,Proposed Parenting Plan,Plaintiff,2026-04-02,,Draft proposed parenting plan,,DOCX
+Doc27.eml,Email,7,Cryptocurrency and Digital Assets,Plaintiff,2025-01-22,,Email: You sent 0.314 BTC,undisclosed_coinbase; crypto_transfer,EML
+Doc28.png,Text message screenshot,6,Peer-to-Peer Payment and Digital Wallet Records,Plaintiff,2026-01-06,,Screenshot of text thread with Mara,gf_transfers; undisclosed_ally,PNG
+Doc29.png,Text message screenshot,44,"Collectibles, Precious Metals, and Valuables",Plaintiff,2026-09-08,,Screenshot of text thread with Jane,separate_property_tracing,PNG
+Doc3.pdf,Bank statement,4,Bank and Depository Accounts,Doe Consulting LLC,2022-05-28,-2901.23,Regions Bank Checking ...2288 statement May 2022,overdrawn,PDF
+Doc30.png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2026-12-22,,Screenshot of text thread with Mom,,PNG
+Doc31.png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2024-08-01,,Screenshot of text thread with Unknown,,PNG
+Doc32.png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2026-12-22,,Screenshot of text thread with Mom,,PNG
+Doc33.png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2026-10-08,,Screenshot of text thread with Danny (brother),,PNG
+Doc34.png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2026-10-11,,Screenshot of text thread with Coach Ruiz,,PNG
+Doc35.png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2025-07-04,,Screenshot of text thread with Coach Ruiz,,PNG
+Doc36.png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2024-12-14,,Screenshot of text thread with Mom,,PNG
+Doc37.png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2024-07-22,,Screenshot of text thread with Mom,,PNG
+Doc38.png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2024-06-24,,Screenshot of text thread with Kevin A,,PNG
+Doc39.png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2026-06-28,,Screenshot of text thread with Kevin A,,PNG
+Doc4.pdf,Bank statement,4,Bank and Depository Accounts,Doe Consulting LLC,2022-12-28,-23216.80,Regions Bank Checking ...2288 statement December 2022,overdrawn,PDF
+Doc40.heic,Photograph,9,Real Property Ownership,Plaintiff,2023-12-21,,Sable Ridge Lane - front elevation,,HEIC
+Doc41.heic,Photograph,9,Real Property Ownership,Plaintiff,2023-03-02,,Kitchen renovation - post,,HEIC
+Doc42.jpg,Photograph,12,"Vehicles, Boats, and Titled Property",Plaintiff,2025-07-06,,"2022 Ford F-150 - odometer 41,220",,JPG
+Doc43.jpg,Photograph,12,"Vehicles, Boats, and Titled Property",Plaintiff,2024-10-26,,"2022 Ford F-150 - odometer 41,220",,JPG
+Doc44.jpg,Photograph,44,"Collectibles, Precious Metals, and Valuables",Plaintiff,2025-05-08,,Rolex Submariner - box and papers,jewelry,JPG
+Doc45.png,Photograph,44,"Collectibles, Precious Metals, and Valuables",Plaintiff,2025-02-13,,Rolex Submariner - box and papers,jewelry,PNG
+Doc46.jpeg,Photograph,44,"Collectibles, Precious Metals, and Valuables",Plaintiff,2026-06-28,,Rolex Submariner - box and papers,jewelry,JPEG
+Doc47.HEIC,Photograph,36,Child-Related Expenses Under the Guidelines,Plaintiff,2023-10-22,,Ethan - travel soccer tournament,,HEIC
+Doc48.png,Photograph,36,Child-Related Expenses Under the Guidelines,Plaintiff,2023-10-03,,Ethan - travel soccer tournament,,PNG
+Doc49.heic,Photograph,36,Child-Related Expenses Under the Guidelines,Plaintiff,2025-12-13,,Ethan - travel soccer tournament,,HEIC
+Doc5.pdf,Bank statement,4,Bank and Depository Accounts,Doe Consulting LLC,2023-06-28,-46443.75,Regions Bank Checking ...2288 statement June 2023,overdrawn,PDF
+Doc50.jpg,Photograph,36,Child-Related Expenses Under the Guidelines,Plaintiff,2026-11-25,,Olivia - dance recital,,JPG
+Doc51.heic,Photograph,36,Child-Related Expenses Under the Guidelines,Plaintiff,2026-11-25,,Olivia - dance recital,,HEIC
+Doc52.jpg,Photograph,36,Child-Related Expenses Under the Guidelines,Plaintiff,2026-04-04,,Olivia - dance recital,,JPG
+Doc53.pdf,Blank or illegible scan,,,Unknown,,,"Blank page - no content, no text layer",blank_scan,PDF
+Doc54.pdf,Blank or illegible scan,,,Unknown,,,"Blank page - no content, no text layer",blank_scan,PDF
+Doc55.pdf,Blank or illegible scan,,,Unknown,,,"Blank page - no content, no text layer",blank_scan,PDF
+Doc56.pdf,Blank or illegible scan,,,Unknown,,,"Blank page - no content, no text layer",blank_scan,PDF
+Doc57.pdf,Blank or illegible scan,,,Unknown,,,"Blank page - no content, no text layer",blank_scan,PDF
+Doc58.pdf,Scanned document (no text layer),44,"Collectibles, Precious Metals, and Valuables",Plaintiff,,,Bill of sale for the boat (image-only scan),blank_scan,PDF
+Doc59.pdf,Combined multi-period bank statements,4,Bank and Depository Accounts,Plaintiff,2021-03-31,,Three statement periods combined into a single PDF - needs splitting,combined,PDF
+Doc60.csv,Bank transaction export,4,Bank and Depository Accounts,Plaintiff,2025-12-31,,Truist Bank ...8819 2025 transaction download,,CSV
+Doc61.pdf,Transfer confirmation - payment from opposing party,28,Payments Received From the Defendant,Defendant,2026-03-19,800.00,Zelle received from the Defendant,,PDF
+Doc62.pdf,Transfer confirmation - payment from opposing party,28,Payments Received From the Defendant,Defendant,2025-06-14,675.00,Zelle received from the Defendant,,PDF
+Doc63.pdf,Bank statement,4,Bank and Depository Accounts,Doe Consulting LLC,2025-09-28,-104483.33,DUPLICATE of regions checking sep 2025.pdf,overdrawn; duplicate,PDF
+Doc64.pdf,Bank statement,4,Bank and Depository Accounts,Doe Consulting LLC,2022-09-28,-14270.98,DUPLICATE of regions_checking_sep_2022.pdf,overdrawn; duplicate,PDF
+Doc7.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2023-03-22,44668.37,Chase Sapphire ...6621 statement closing 2023-03-22,,PDF
+Doc9.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2025-02-22,98477.15,American Express Blue Cash ...91007 statement closing 2025-02-22,,PDF
+Doe - deficiency in production.eml,Email,49,Communications Between the Parties and Third Parties,Counsel,2026-02-18,,Email: Doe - deficiency in production,statement_gap; undisclosed_ally; undisclosed_coinbase,EML
+doe consulting balance sheet 2021.pdf,Business balance sheet,21,Business Financial Records,Doe Consulting LLC,2021-12-31,,2021 balance sheet,,PDF
+DOE CONSULTING BALANCE SHEET 2023.pdf,Business balance sheet,21,Business Financial Records,Doe Consulting LLC,2023-12-31,,2023 balance sheet,,PDF
+doe consulting balance sheet 2024.pdf,Business balance sheet,21,Business Financial Records,Doe Consulting LLC,2024-12-31,,2024 balance sheet,,PDF
+doe consulting balance sheet 2025.pdf,Business balance sheet,21,Business Financial Records,Doe Consulting LLC,2025-12-31,,2025 balance sheet,,PDF
+doe consulting general ledger 2023-2025.xlsx,General ledger export,21,Business Financial Records,Doe Consulting LLC,2025-12-31,,"QuickBooks general ledger export, 2023 through 2025",,XLSX
+doe consulting operating agreement.pdf,LLC operating agreement,20,Business Organization Agreements,Doe Consulting LLC,2021-05-17,,"Operating agreement, sole member, transfer restriction clause",,PDF
+doe consulting P&L 2021.pdf,Business profit and loss statement,21,Business Financial Records,Doe Consulting LLC,2021-12-31,21000.00,2021 P&L for Doe Consulting LLC,,PDF
+doe consulting P&L 2022.pdf,Business profit and loss statement,21,Business Financial Records,Doe Consulting LLC,2022-12-31,34200.00,2022 P&L for Doe Consulting LLC,,PDF
+doe consulting P&L 2023.pdf,Business profit and loss statement,21,Business Financial Records,Doe Consulting LLC,2023-12-31,48400.00,2023 P&L for Doe Consulting LLC,sched_c_omitted,PDF
+DOE CONSULTING P&L 2024 copy.pdf,Business profit and loss statement,21,Business Financial Records,Doe Consulting LLC,2024-12-31,52100.00,2024 P&L for Doe Consulting LLC,,PDF
+doe consulting P&L 2025.pdf,Business profit and loss statement,21,Business Financial Records,Doe Consulting LLC,2025-12-31,59300.00,2025 P&L for Doe Consulting LLC,,PDF
+doe family trust agreement.pdf,Trust agreement,40,Trust Instruments,Joint,2019-08-11,,Revocable family trust holding the residence and a money market account,,PDF
+Doe v. Doe - Rule 11 agreement on discovery .eml,Email,49,Communications Between the Parties and Third Parties,Counsel,2025-02-28,,Email: Doe v. Doe - Rule 11 agreement on discovery deadline,,EML
+domestic relations financial affidavit.pdf,Domestic Relations Financial Affidavit,29,Domestic Relations Financial Affidavit,Plaintiff,2026-03-20,,Sworn DRFA - the benchmark document for reconciliation,undisclosed_ally; undisclosed_coinbase; undisclosed_robinhood; undisclosed_roth; undisclosed_barclays; heloc_draw; gig_income,PDF
+download (2).pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-11-28,-16510.18,DUPLICATE of peachtree money market nov 2024 copy.pdf,overdrawn; duplicate,PDF
+download.pdf,Cell phone bill with call detail,32,Cellular Telephone Records,Joint,2024-10-28,260.49,Verizon Wireless statement,,PDF
+empower 401k q1 2021.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2021-03-28,40049.17,"Empower Retirement 401(k) statement, quarter ending 2021-03-28",,PDF
+empower 401k Q1 2022.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2022-03-28,39794.83,"Empower Retirement 401(k) statement, quarter ending 2022-03-28",,PDF
+empower 401k Q1 2023.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2023-03-28,41355.66,"Empower Retirement 401(k) statement, quarter ending 2023-03-28",,PDF
+empower 401k Q1 2024.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2024-03-28,42476.01,"Empower Retirement 401(k) statement, quarter ending 2024-03-28",,PDF
+empower 401k Q3 2023.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2023-09-28,43561.71,"Empower Retirement 401(k) statement, quarter ending 2023-09-28",,PDF
+EMPOWER 401K Q4 2021.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2021-12-28,40907.70,"Empower Retirement 401(k) statement, quarter ending 2021-12-28",,PDF
+empower_401k_Q1_2026.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2026-03-28,45737.85,"Empower Retirement 401(k) statement, quarter ending 2026-03-28",,PDF
+encore invoice 2022-12 updated.pdf,Child activity / school invoice,36,Child-Related Expenses Under the Guidelines,Child,2022-12-13,1141.24,Encore Dance Center - Dance for Olivia Doe,,PDF
+encore invoice 2025-12.pdf,Child activity / school invoice,36,Child-Related Expenses Under the Guidelines,Child,2025-12-03,968.72,Encore Dance Center - Dance for Olivia Doe,,PDF
+encore invoice 2026-01.pdf,Child activity / school invoice,36,Child-Related Expenses Under the Guidelines,Child,2026-01-21,1716.54,Encore Dance Center - Dance for Olivia Doe,,PDF
+facebook archive export.csv,Social media archive export,50,"Social Media, Dating Applications, and Device Data",Plaintiff,2026-03-04,,Facebook and Instagram activity export,gf_transfers,CSV
+fidelity 401k Q1 2021.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2021-03-28,147415.46,"Fidelity NetBenefits 401(k) statement, quarter ending 2021-03-28",,PDF
+fidelity 401k Q1 2022.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2022-03-28,150274.83,"Fidelity NetBenefits 401(k) statement, quarter ending 2022-03-28",,PDF
+fidelity 401k q1 2023.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2023-03-28,164441.61,"Fidelity NetBenefits 401(k) statement, quarter ending 2023-03-28",,PDF
+fidelity 401k Q1 2024.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2024-03-28,163769.01,"Fidelity NetBenefits 401(k) statement, quarter ending 2024-03-28",,PDF
+fidelity 401k Q2 2022.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2022-06-28,151780.43,"Fidelity NetBenefits 401(k) statement, quarter ending 2022-06-28",,PDF
+fidelity 401k Q3 2021.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2021-09-28,155901.81,"Fidelity NetBenefits 401(k) statement, quarter ending 2021-09-28",,PDF
+fidelity 401k Q3 2025.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2025-09-28,146505.44,"Fidelity NetBenefits 401(k) statement, quarter ending 2025-09-28",cash_withdrawals,PDF
+fidelity 401k Q4 2021.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2021-12-28,153802.91,"Fidelity NetBenefits 401(k) statement, quarter ending 2021-12-28",,PDF
+fidelity 401k Q4 2022.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2022-12-28,159370.69,"Fidelity NetBenefits 401(k) statement, quarter ending 2022-12-28",,PDF
+fidelity 401k Q4 2023.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2023-12-28,164648.48,"Fidelity NetBenefits 401(k) statement, quarter ending 2023-12-28",,PDF
+FIDELITY 401K Q4 2024.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2024-12-28,172577.16,"Fidelity NetBenefits 401(k) statement, quarter ending 2024-12-28",,PDF
+fidelity 401k Q4 2025.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2025-12-28,143701.68,"Fidelity NetBenefits 401(k) statement, quarter ending 2025-12-28",,PDF
+FIDELITY BROKERAGE APR 2022.pdf,Brokerage account statement,8,Brokerage and Securities Accounts,Plaintiff,2022-04-28,58661.22,Fidelity Investments Z2214477 statement,,PDF
+FIDELITY BROKERAGE APR 2024.pdf,Brokerage account statement,8,Brokerage and Securities Accounts,Plaintiff,2024-04-28,65496.55,Fidelity Investments Z2214477 statement,,PDF
+FIDELITY BROKERAGE AUG 2025.pdf,Brokerage account statement,8,Brokerage and Securities Accounts,Plaintiff,2025-08-28,73092.89,Fidelity Investments Z2214477 statement,,PDF
+fidelity brokerage dec 2022.pdf,Brokerage account statement,8,Brokerage and Securities Accounts,Plaintiff,2022-12-28,62612.70,Fidelity Investments Z2214477 statement,,PDF
+fidelity brokerage dec 2023.pdf,Brokerage account statement,8,Brokerage and Securities Accounts,Plaintiff,2023-12-28,67680.03,Fidelity Investments Z2214477 statement,,PDF
+fidelity brokerage feb 2022.pdf,Brokerage account statement,8,Brokerage and Securities Accounts,Plaintiff,2022-02-28,59529.57,Fidelity Investments Z2214477 statement,,PDF
+fidelity brokerage feb 2024.pdf,Brokerage account statement,8,Brokerage and Securities Accounts,Plaintiff,2024-02-28,66769.78,Fidelity Investments Z2214477 statement,,PDF
+fidelity brokerage feb 2026.pdf,Brokerage account statement,8,Brokerage and Securities Accounts,Plaintiff,2026-02-28,78408.00,Fidelity Investments Z2214477 statement,,PDF
+fidelity brokerage jan 2022.pdf,Brokerage account statement,8,Brokerage and Securities Accounts,Plaintiff,2022-01-28,60915.70,Fidelity Investments Z2214477 statement,,PDF
+fidelity brokerage jan 2023.pdf,Brokerage account statement,8,Brokerage and Securities Accounts,Plaintiff,2023-01-28,61156.86,Fidelity Investments Z2214477 statement,,PDF
+FIDELITY BROKERAGE JAN 2025.pdf,Brokerage account statement,8,Brokerage and Securities Accounts,Plaintiff,2025-01-28,66471.39,Fidelity Investments Z2214477 statement,,PDF
+fidelity brokerage jun 2022.pdf,Brokerage account statement,8,Brokerage and Securities Accounts,Plaintiff,2022-06-28,60288.22,Fidelity Investments Z2214477 statement,,PDF
+fidelity brokerage jun 2023.pdf,Brokerage account statement,8,Brokerage and Securities Accounts,Plaintiff,2023-06-28,65778.87,Fidelity Investments Z2214477 statement,,PDF
+fidelity brokerage jun 2025.pdf,Brokerage account statement,8,Brokerage and Securities Accounts,Plaintiff,2025-06-28,69866.30,Fidelity Investments Z2214477 statement,,PDF
+fidelity brokerage mar 2022 FINAL.pdf,Brokerage account statement,8,Brokerage and Securities Accounts,Plaintiff,2022-03-28,59429.73,Fidelity Investments Z2214477 statement,,PDF
+fidelity brokerage mar 2023.pdf,Brokerage account statement,8,Brokerage and Securities Accounts,Plaintiff,2023-03-28,62039.48,Fidelity Investments Z2214477 statement,,PDF
+FIDELITY BROKERAGE MAR 2024.pdf,Brokerage account statement,8,Brokerage and Securities Accounts,Plaintiff,2024-03-28,65621.38,Fidelity Investments Z2214477 statement,,PDF
+fidelity brokerage mar 2025.pdf,Brokerage account statement,8,Brokerage and Securities Accounts,Plaintiff,2025-03-28,66915.72,Fidelity Investments Z2214477 statement,,PDF
+fidelity brokerage mar 2026.pdf,Brokerage account statement,8,Brokerage and Securities Accounts,Plaintiff,2026-03-28,79387.31,Fidelity Investments Z2214477 statement,,PDF
+fidelity brokerage may 2022.pdf,Brokerage account statement,8,Brokerage and Securities Accounts,Plaintiff,2022-05-28,61226.87,Fidelity Investments Z2214477 statement,,PDF
+fidelity brokerage nov 2025.pdf,Brokerage account statement,8,Brokerage and Securities Accounts,Plaintiff,2025-11-28,75284.85,Fidelity Investments Z2214477 statement,,PDF
+fidelity_brokerage_nov_2024.pdf,Brokerage account statement,8,Brokerage and Securities Accounts,Plaintiff,2024-11-28,67046.20,Fidelity Investments Z2214477 statement,,PDF
+FIELD TRIP PERMISSION FORM (2).eml,Email,49,Communications Between the Parties and Third Parties,Third party,2026-02-13,,Routine notification email: Field trip permission form,,EML
+FIELD TRIP PERMISSION FORM (3).eml,Email,49,Communications Between the Parties and Third Parties,Third party,2024-03-23,,Routine notification email: Field trip permission form,,EML
+Field trip permission form (4).eml,Email,49,Communications Between the Parties and Third Parties,Third party,2024-04-20,,Routine notification email: Field trip permission form,,EML
+Field trip permission form.eml,Email,49,Communications Between the Parties and Third Parties,Third party,2024-11-18,,Routine notification email: Field trip permission form,,EML
+file (2).pdf,Property tax bill,15,Ad Valorem and Property Tax Notices,Joint,2021-09-15,4373.60,"2021 Gwinnett County ad valorem tax bill, FMV $385,000.00",,PDF
+ford certificate.pdf,Certificate of Title,12,"Vehicles, Boats, and Titled Property",Plaintiff,2023-05-02,52400.00,Certificate of Title for 2022 Ford F-150 Lariat SuperCrew,,PDF
+ford tag.pdf,Tag and Registration Certificate,12,"Vehicles, Boats, and Titled Property",Plaintiff,2023-05-02,52400.00,Tag and Registration Certificate for 2022 Ford F-150 Lariat SuperCrew,,PDF
+ga 500 2020.pdf,Georgia state income tax return (Form 500),1,Tax Returns,Joint,2021-04-12,121400.00,2020 Georgia Form 500,,PDF
+GA 500 2021.pdf,Georgia state income tax return (Form 500),1,Tax Returns,Joint,2022-04-12,133900.00,2021 Georgia Form 500,,PDF
+GA 500 2023.pdf,Georgia state income tax return (Form 500),1,Tax Returns,Joint,2024-04-12,146200.00,2023 Georgia Form 500,,PDF
+gas apr 2023.pdf,Utility bill,31,"Utility, Cable, and Household Service Accounts",Joint,2023-04-28,178.85,Gas South Natural Gas bill,,PDF
+GAS FEB 2026.pdf,Utility bill,31,"Utility, Cable, and Household Service Accounts",Joint,2026-02-28,174.00,Gas South Natural Gas bill,,PDF
+GAS JUL 2025.pdf,Utility bill,31,"Utility, Cable, and Household Service Accounts",Joint,2025-07-28,215.42,Gas South Natural Gas bill,,PDF
+gas nov 2025.pdf,Utility bill,31,"Utility, Cable, and Household Service Accounts",Joint,2025-11-28,190.34,Gas South Natural Gas bill,,PDF
+georgia aug 2023 copy.pdf,Utility bill,31,"Utility, Cable, and Household Service Accounts",Joint,2023-08-28,190.61,Georgia Power Electric bill,,PDF
+georgia aug 2025.pdf,Utility bill,31,"Utility, Cable, and Household Service Accounts",Joint,2025-08-28,83.16,Georgia Power Electric bill,,PDF
+georgia feb 2023.pdf,Utility bill,31,"Utility, Cable, and Household Service Accounts",Joint,2023-02-28,295.93,Georgia Power Electric bill,,PDF
+georgia mar 2025.pdf,Utility bill,31,"Utility, Cable, and Household Service Accounts",Joint,2025-03-28,199.00,Georgia Power Electric bill,,PDF
+georgia oct 2024.pdf,Utility bill,31,"Utility, Cable, and Household Service Accounts",Joint,2024-10-28,235.87,Georgia Power Electric bill,,PDF
+georgia sep 2024.pdf,Utility bill,31,"Utility, Cable, and Household Service Accounts",Joint,2024-09-28,290.12,Georgia Power Electric bill,,PDF
+georgia_feb_2026.pdf,Utility bill,31,"Utility, Cable, and Household Service Accounts",Joint,2026-02-28,275.26,Georgia Power Electric bill,,PDF
+Gift from Harold R. Doe - truck down pay.pdf,"Record of gift, inheritance, or settlement received",42,Gifts and Inheritances Received,Plaintiff,2022-04-11,15000.00,Gift from Harold R. Doe - truck down payment,separate_property_tracing,PDF
+gift tax return 709 Harold Doe 2022.pdf,Form 709 gift tax return,42,Gifts and Inheritances Received,Third party,2023-04-15,15000.00,Donor's gift tax return corroborating a separate-property claim,separate_property_tracing,PDF
+gwinnett ethan 2024-01 new.pdf,Medical bill / EOB,36,Child-Related Expenses Under the Guidelines,Child,2024-01-17,361.24,Gwinnett Pediatric Associates - Statement for Ethan Doe,,PDF
+GWINNETT JUN 2024.pdf,Utility bill,31,"Utility, Cable, and Household Service Accounts",Joint,2024-06-28,88.55,Gwinnett County Water Water and Sewer bill,,PDF
+gwinnett olivia 2022-08.pdf,Medical bill / EOB,36,Child-Related Expenses Under the Guidelines,Child,2022-08-18,538.94,Gwinnett Pediatric Associates - Explanation of Benefits for Olivia Doe,,PDF
+gwinnett property tax 2023 revised.pdf,Property tax bill,15,Ad Valorem and Property Tax Notices,Joint,2023-09-15,4850.72,"2023 Gwinnett County ad valorem tax bill, FMV $427,000.00",,PDF
+gwinnett property tax 2024.pdf,Property tax bill,15,Ad Valorem and Property Tax Notices,Joint,2024-09-15,5089.28,"2024 Gwinnett County ad valorem tax bill, FMV $448,000.00",,PDF
+gwinnett_dec_2023.pdf,Utility bill,31,"Utility, Cable, and Household Service Accounts",Joint,2023-12-28,260.24,Gwinnett County Water Water and Sewer bill,,PDF
+HOME APPRAISAL 2023.pdf,Real estate appraisal,45,Appraisals and Valuation Correspondence,Joint,2023-05-12,428000.00,Form 1004 appraisal of marital residence,,PDF
+home appraisal 2025.pdf,Real estate appraisal,45,Appraisals and Valuation Correspondence,Joint,2025-05-12,471000.00,Form 1004 appraisal of marital residence,,PDF
+honda apr 2024.pdf,Loan statement,13,"Debts, Loans, and Guaranties",Plaintiff,2024-04-28,20864.24,Honda Financial Services Auto Lease statement,,PDF
+honda aug 2023.pdf,Loan statement,13,"Debts, Loans, and Guaranties",Plaintiff,2023-08-28,22519.05,Honda Financial Services Auto Lease statement,,PDF
+honda aug 2025.pdf,Loan statement,13,"Debts, Loans, and Guaranties",Plaintiff,2025-08-28,18870.16,Honda Financial Services Auto Lease statement,,PDF
+honda certificate.pdf,Certificate of Title,12,"Vehicles, Boats, and Titled Property",Defendant,2023-05-02,48900.00,Certificate of Title for 2023 Honda Pilot Elite,wrong_party,PDF
+honda feb 2024 new.pdf,Loan statement,13,"Debts, Loans, and Guaranties",Plaintiff,2024-02-28,21348.96,Honda Financial Services Auto Lease statement,,PDF
+honda mar 2023.pdf,Loan statement,13,"Debts, Loans, and Guaranties",Plaintiff,2023-03-28,23510.93,Honda Financial Services Auto Lease statement,,PDF
+honda may 2023 v2.pdf,Loan statement,13,"Debts, Loans, and Guaranties",Plaintiff,2023-05-28,22774.13,Honda Financial Services Auto Lease statement,,PDF
+honda tag copy.pdf,Tag and Registration Certificate,12,"Vehicles, Boats, and Titled Property",Defendant,2023-05-02,48900.00,Tag and Registration Certificate for 2023 Honda Pilot Elite,wrong_party,PDF
+HOUSEHOLD INVENTORY AND VALUATION.xlsx,Household and personal property inventory,44,"Collectibles, Precious Metals, and Valuables",Joint,2026-03-22,,Personal property inventory flagging items missing from the affidavit,jewelry; undisclosed_barclays,XLSX
+hsa statement 2023.pdf,HSA annual statement,35,Health Savings and Flexible Spending Accounts,Plaintiff,2023-12-31,,HealthEquity HSA annual statement 2023,,PDF
+HSA statement 2024 v2.pdf,HSA annual statement,35,Health Savings and Flexible Spending Accounts,Plaintiff,2024-12-31,,HealthEquity HSA annual statement 2024,,PDF
+hsa statement 2025 updated.pdf,HSA annual statement,35,Health Savings and Flexible Spending Accounts,Plaintiff,2025-12-31,,HealthEquity HSA annual statement 2025,,PDF
+HUD-1 settlement statement 2018.pdf,Closing / settlement statement,9,Real Property Ownership,Joint,2018-06-22,342000.00,"HUD-1 for purchase of marital residence, includes $12,000 gift from father",separate_property_tracing,PDF
+IMG_1045.jpg,Photograph,9,Real Property Ownership,Plaintiff,2025-12-04,,Kitchen renovation - post,,JPG
+IMG_1392.heic,Photograph,12,"Vehicles, Boats, and Titled Property",Plaintiff,2026-06-19,,"2022 Ford F-150 - odometer 41,220",,HEIC
+IMG_2314.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2023-11-28,-4532.10,Truist Bank Checking ...8802 statement November 2023,overdrawn,PDF
+IMG_2321.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2021-04-21,2823.70,"Acme Logistics, Inc. earnings statement, pay date 2021-04-21",,PDF
+IMG_2328.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2025-02-17,3989.72,"Summit Freight Systems, LLC earnings statement, pay date 2025-02-17",,PDF
+IMG_2335.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2025-07-21,3989.72,"Summit Freight Systems, LLC earnings statement, pay date 2025-07-21",,PDF
+IMG_2342.pdf,Federal income tax return (Form 1040),1,Tax Returns,Joint,2023-04-12,140600.00,"2022 Form 1040, AGI $140,600.00",,PDF
+IMG_2349.pdf,Georgia state income tax return (Form 500),1,Tax Returns,Joint,2025-04-12,159880.00,2024 Georgia Form 500,,PDF
+IMG_2356.pdf,Form 1099-NEC,2,Wage and Earnings Records,Plaintiff,2025-01-31,26800.00,2024 Form 1099-NEC from Vantage Supply Partners,,PDF
+IMG_2363.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2024-06-28,44483.11,"Empower Retirement 401(k) statement, quarter ending 2024-06-28",,PDF
+IMG_2370.pdf,Brokerage account statement,8,Brokerage and Securities Accounts,Plaintiff,2023-09-28,13149.31,Robinhood RH-9920144 statement,undisclosed_robinhood,PDF
+IMG_2377.pdf,Peer-to-peer payment history,6,Peer-to-Peer Payment and Digital Wallet Records,Plaintiff,2025-09-28,,Cash App transaction history 2025-07-01 to 2025-09-28,gf_transfers,PDF
+IMG_2384.pdf,Property tax bill,15,Ad Valorem and Property Tax Notices,Joint,2025-09-15,5327.84,"2025 Gwinnett County ad valorem tax bill, FMV $469,000.00",,PDF
+IMG_2391.pdf,Mortgage statement,11,"Mortgage, HELOC, and Home Equity Records",Joint,2025-07-28,303214.16,Rocket Mortgage monthly statement,,PDF
+IMG_2405.pdf,HELOC statement,11,"Mortgage, HELOC, and Home Equity Records",Joint,2023-04-28,0.00,Truist HELOC statement,,PDF
+IMG_2412.pdf,Loan statement,13,"Debts, Loans, and Guaranties",Plaintiff,2025-12-28,17997.49,Honda Financial Services Auto Lease statement,,PDF
+IMG_2419.pdf,Medical bill / EOB,34,"Medical, Dental, and Health Expenses",Defendant,2023-09-20,262.10,CVS Pharmacy #4471 - Statement for Jane Elizabeth Doe,wrong_party,PDF
+IMG_2426.pdf,Child activity / school invoice,36,Child-Related Expenses Under the Guidelines,Child,2026-03-15,2036.01,Gwinnett Soccer Academy - Travel Soccer for Ethan Doe,,PDF
+IMG_2433.pdf,Business balance sheet,21,Business Financial Records,Doe Consulting LLC,2022-12-31,,2022 balance sheet,,PDF
+IMG_2440.pdf,Unemployment determination,27,Unemployment Compensation,Plaintiff,2024-02-26,1095.00,GDOL determination following Acme reduction in force,,PDF
+IMG_2447.png,Text message screenshot,21,Business Financial Records,Plaintiff,2026-06-22,,Screenshot of text thread with Kevin A,sched_c_omitted,PNG
+IMG_2454.png,Text message screenshot,4,Bank and Depository Accounts,Plaintiff,2026-05-24,,Screenshot of text thread with Jane,statement_gap,PNG
+IMG_2461.png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2025-05-26,,Screenshot of text thread with Tia (sitter),,PNG
+IMG_2468.png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2026-08-04,,Screenshot of text thread with Tia (sitter),,PNG
+IMG_2475.png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2024-08-21,,Screenshot of text thread with Tia (sitter),,PNG
+IMG_2482.png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2024-10-10,,Screenshot of text thread with Tia (sitter),,PNG
+IMG_2489.png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2024-07-07,,Screenshot of text thread with Coach Ruiz,,PNG
+IMG_2496.png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2026-10-16,,Screenshot of text thread with Unknown,,PNG
+IMG_2503.HEIC,Photograph,9,Real Property Ownership,Plaintiff,2025-04-21,,Kitchen renovation - post,,HEIC
+IMG_2510.jpg,Photograph,12,"Vehicles, Boats, and Titled Property",Plaintiff,2026-03-06,,"2022 Ford F-150 - odometer 41,220",,JPG
+IMG_2517.png,Photograph,44,"Collectibles, Precious Metals, and Valuables",Plaintiff,2025-03-04,,Gold Eagle coins and silver bars,cash_withdrawals,PNG
+IMG_2524.jpeg,Photograph,44,"Collectibles, Precious Metals, and Valuables",Plaintiff,2024-06-23,,Gold Eagle coins and silver bars,cash_withdrawals,JPEG
+IMG_2531.png,Photograph,46,"Travel, Vacation, and Entertainment",Plaintiff,2024-11-03,,Cabo San Lucas - Hotel El Ganzo,gf_transfers,PNG
+IMG_2538.heic,Photograph,46,"Travel, Vacation, and Entertainment",Plaintiff,2025-09-04,,Cabo San Lucas - Hotel El Ganzo,gf_transfers,HEIC
+IMG_2545.HEIC,Photograph,46,"Travel, Vacation, and Entertainment",Plaintiff,2025-02-23,,Cabo San Lucas - Hotel El Ganzo,gf_transfers,HEIC
+IMG_2552.png,Photograph,36,Child-Related Expenses Under the Guidelines,Plaintiff,2023-06-27,,Ethan - travel soccer tournament,,PNG
+IMG_2559.jpg,Photograph,18,Safe Deposit Boxes and Storage,Plaintiff,2025-07-01,,Storage unit 2208 interior,storage_unit,JPG
+IMG_2566.pdf,Purchase receipt,43,Purchases and Sales Exceeding $100,Plaintiff,2025-08-05,20160.72,"Peachtree Landscape receipt, $20,160.72",gf_transfers,PDF
+IMG_2573.pdf,Purchase receipt,44,"Collectibles, Precious Metals, and Valuables",Plaintiff,2023-11-03,4298.75,"Bass Pro Shops receipt, $4,298.75",,PDF
+IMG_2580.pdf,Purchase receipt,43,Purchases and Sales Exceeding $100,Plaintiff,2024-04-13,3485.46,"Apple Store Perimeter receipt, $3,485.46",,PDF
+IMG_2587.xlsx,Gift log,47,Gifts Purchased for Others,Plaintiff,2026-03-01,,"Log of gifts purchased, includes post-separation gifts to a third party",gf_transfers; undisclosed_barclays,XLSX
+IMG_2594.docx,Parenting journal,49,Communications Between the Parties and Third Parties,Plaintiff,2026-03-01,,Contemporaneous parenting journal entries,,DOCX
+IMG_2601.pdf,Blank or illegible scan,,,Unknown,,,"Blank page - no content, no text layer",blank_scan,PDF
+IMG_2608.pdf,Blank or illegible scan,,,Unknown,,,"Blank page - no content, no text layer",blank_scan,PDF
+IMG_2615.pdf,Blank or illegible scan,,,Unknown,,,"Blank page - no content, no text layer",blank_scan,PDF
+IMG_2622.pdf,Scanned document (no text layer),44,"Collectibles, Precious Metals, and Valuables",Plaintiff,,,Bill of sale for the boat (image-only scan),blank_scan,PDF
+IMG_2629.pdf,Bank statement,4,Bank and Depository Accounts,Doe Consulting LLC,2024-01-28,-65520.50,DUPLICATE of regions_checking_jan_2024.pdf,overdrawn; duplicate,PDF
+IMG_2636.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2025-01-28,10934.60,COPY 2 of 2 CONFLICTS - Peachtree Federal Credit Union ...4417 January 2025,conflicting_copies,PDF
+IMG_2662.jpeg,Photograph,44,"Collectibles, Precious Metals, and Valuables",Plaintiff,2026-02-26,,Rolex Submariner - box and papers,jewelry,JPEG
+IMG_4181.png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2026-11-26,,Screenshot of text thread with Jane,,PNG
+IMG_4264.png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2026-07-10,,Screenshot of text thread with Coach Ruiz,,PNG
+IMG_4616.png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2026-08-18,,Screenshot of text thread with Jane,,PNG
+IMG_5205 (1).jpg,Photograph,9,Real Property Ownership,Plaintiff,2025-12-08,,Sable Ridge Lane - front elevation,,JPG
+IMG_7258.jpg,Photograph,9,Real Property Ownership,Plaintiff,2024-10-20,,Sable Ridge Lane - front elevation,,JPG
+img_8811.png,Photograph,44,"Collectibles, Precious Metals, and Valuables",Plaintiff,2025-06-25,,Rolex Submariner - box and papers,jewelry,PNG
+invoice 4471 - consulting.eml,Email,21,Business Financial Records,Plaintiff,2026-02-18,,Email: invoice 4471 - consulting,,EML
+INVOICE PAST DUE.eml,Email,49,Communications Between the Parties and Third Parties,Third party,2025-12-17,,Routine notification email: Invoice past due,,EML
+job application penske revised.pdf,Employment application record,24,Employment Search and Earning Capacity,Plaintiff,2024-03-25,,Penske Logistics - Area Operations Director - Withdrew application,,PDF
+job application ryder.pdf,Employment application record,24,Employment Search and Earning Capacity,Plaintiff,2024-02-10,,"Ryder System, Inc. - Director of Transportation - Rejected after second round",,PDF
+job application saia.pdf,Employment application record,24,Employment Search and Earning Capacity,Plaintiff,2024-03-06,,"Saia LTL Freight - Terminal Manager - Interviewed, position filled internally",,PDF
+job application summit.pdf,Employment application record,24,Employment Search and Earning Capacity,Plaintiff,2024-02-01,,"Summit Freight Systems, LLC - Director of Logistics - OFFER ACCEPTED",,PDF
+job application ups.pdf,Employment application record,24,Employment Search and Earning Capacity,Plaintiff,2024-03-27,,"UPS Supply Chain Solutions - Regional Director - Offer declined - $184,000 base",,PDF
+job application xpo.pdf,Employment application record,24,Employment Search and Earning Capacity,Plaintiff,2024-01-19,,XPO Logistics - Senior Operations Manager - No response,,PDF
+KAY RECEIPT 2025-10.pdf,Purchase receipt,44,"Collectibles, Precious Metals, and Valuables",Plaintiff,2025-10-03,14567.37,"Kay Jewelers receipt, $14,567.37",jewelry,PDF
+kay receipt 2026-03.pdf,Purchase receipt,44,"Collectibles, Precious Metals, and Valuables",Plaintiff,2026-03-04,4825.85,"Kay Jewelers receipt, $4,825.85",jewelry,PDF
+kay_receipt_2023-06.pdf,Purchase receipt,44,"Collectibles, Precious Metals, and Valuables",Plaintiff,2023-06-02,2548.44,"Kay Jewelers receipt, $2,548.44",jewelry,PDF
+kumon invoice 2026-03.pdf,Child activity / school invoice,36,Child-Related Expenses Under the Guidelines,Child,2026-03-15,452.94,Kumon of Lawrenceville - Tutoring for Ethan Doe,,PDF
+LAKE RECEIPT 2025-05.pdf,Purchase receipt,43,Purchases and Sales Exceeding $100,Plaintiff,2025-05-22,12358.33,"Lake Lanier Marina receipt, $12,358.33",gf_transfers,PDF
+last will and testament.pdf,Last will and testament,41,Estate Planning Documents,Plaintiff,2019-08-11,,Will naming spouse as sole beneficiary and executor,,PDF
+lawrenceville john 2022-03.pdf,Medical bill / EOB,34,"Medical, Dental, and Health Expenses",Plaintiff,2022-03-17,1355.86,Lawrenceville Family Dental - Explanation of Benefits for John Michael Doe,,PDF
+lawrenceville john 2022-12.pdf,Medical bill / EOB,34,"Medical, Dental, and Health Expenses",Plaintiff,2022-12-04,1829.42,Lawrenceville Family Dental - Statement for John Michael Doe,,PDF
+lawrenceville john 2025-01.pdf,Medical bill / EOB,34,"Medical, Dental, and Health Expenses",Plaintiff,2025-01-24,449.11,Lawrenceville Family Dental - Statement for John Michael Doe,,PDF
+letter to opposing counsel re production.docx,Correspondence,49,Communications Between the Parties and Third Parties,Plaintiff,2026-03-02,,CORRESPONDENCE,,DOCX
+list of accounts and passwords.txt,Attorney work product / notes,19,Financial and Net Worth Statements,Plaintiff,2026-03-09,,ACCOUNT NOTES,undisclosed_ally; undisclosed_coinbase; undisclosed_robinhood; undisclosed_roth; undisclosed_barclays,TXT
+mileage log 2023-2025.xlsx,Mileage and travel log,46,"Travel, Vacation, and Entertainment",Plaintiff,2025-12-31,,Business and personal mileage log,,XLSX
+misc.pdf,Loan statement,13,"Debts, Loans, and Guaranties",Plaintiff,2024-02-28,38364.69,Ally Financial Auto Loan statement,,PDF
+monthly_expense_worksheet.xlsx,Expense worksheet,30,Expense Documentation,Plaintiff,2026-03-18,,Household expense worksheet compared to the DRFA claimed figures,,XLSX
+nanny pay 2023-11.pdf,Childcare payment record,39,Childcare Providers and Household Employees,Child,2023-11-04,1242.65,Payment to household caregiver Tia Nwosu,,PDF
+nanny pay 2024-07.pdf,Childcare payment record,39,Childcare Providers and Household Employees,Child,2024-07-02,591.48,Payment to household caregiver Tia Nwosu,,PDF
+nanny pay 2024-09.pdf,Childcare payment record,39,Childcare Providers and Household Employees,Child,2024-09-27,1002.45,Payment to household caregiver Tia Nwosu,,PDF
+nanny pay 2024-10 (2).pdf,Childcare payment record,39,Childcare Providers and Household Employees,Child,2024-10-11,1312.06,Payment to household caregiver Tia Nwosu,,PDF
+nanny pay 2024-10.pdf,Childcare payment record,39,Childcare Providers and Household Employees,Child,2024-10-03,510.20,Payment to household caregiver Tia Nwosu,,PDF
+nanny pay 2025-03.pdf,Childcare payment record,39,Childcare Providers and Household Employees,Child,2025-03-14,948.15,Payment to household caregiver Tia Nwosu,,PDF
+nanny pay 2025-05 final.pdf,Childcare payment record,39,Childcare Providers and Household Employees,Child,2025-05-22,839.97,Payment to household caregiver Tia Nwosu,,PDF
+nanny pay 2025-06.pdf,Childcare payment record,39,Childcare Providers and Household Employees,Child,2025-06-09,1010.73,Payment to household caregiver Tia Nwosu,,PDF
+nanny pay 2025-08.pdf,Childcare payment record,39,Childcare Providers and Household Employees,Child,2025-08-17,1167.79,Payment to household caregiver Tia Nwosu,,PDF
+navient feb 2024.pdf,Loan statement,14,Student Loans and Educational Debt,Plaintiff,2024-02-28,26274.96,Navient Student Loan statement,,PDF
+NAVIENT JAN 2025 - Copy.pdf,Loan statement,14,Student Loans and Educational Debt,Plaintiff,2025-01-28,24003.88,Navient Student Loan statement,,PDF
+navient jul 2025.pdf,Loan statement,14,Student Loans and Educational Debt,Plaintiff,2025-07-28,23066.34,Navient Student Loan statement,,PDF
+navient mar 2023.pdf,Loan statement,14,Student Loans and Educational Debt,Plaintiff,2023-03-28,27655.94,Navient Student Loan statement,,PDF
+navient oct 2023.pdf,Loan statement,14,Student Loans and Educational Debt,Plaintiff,2023-10-28,27449.34,Navient Student Loan statement,,PDF
+navient_feb_2026.pdf,Loan statement,14,Student Loans and Educational Debt,Plaintiff,2026-02-28,22519.71,Navient Student Loan statement,,PDF
+New Scan (2) (2).pdf,Cell phone bill with call detail,32,Cellular Telephone Records,Joint,2024-01-28,218.37,Verizon Wireless statement,,PDF
+New Scan (2) (3).pdf,Blank or illegible scan,,,Unknown,,,"Blank page - no content, no text layer",blank_scan,PDF
+New Scan (2).pdf,Warranty Deed,10,Deeds and Security Instruments,Joint,2018-06-22,342000.00,"Warranty Deed recorded 2018-06-22, Book 56144 Page 0221",,PDF
+New Scan (2).png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2026-03-04,,Screenshot of text thread with Unknown,,PNG
+New Scan - Copy (2).pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2025-11-24,3989.72,"Summit Freight Systems, LLC earnings statement, pay date 2025-11-24",,PDF
+New Scan - Copy (2).png,Photograph,44,"Collectibles, Precious Metals, and Valuables",Plaintiff,2025-08-22,,Yamaha 242X at Lake Lanier slip,jewelry,PNG
+New Scan - Copy (3).pdf,Utility bill,31,"Utility, Cable, and Household Service Accounts",Joint,2023-07-28,146.95,Xfinity Internet and Cable bill,,PDF
+New Scan - Copy (4).pdf,Purchase receipt,43,Purchases and Sales Exceeding $100,Plaintiff,2023-04-11,6553.51,"The Home Depot receipt, $6,553.51",,PDF
+New Scan - Copy.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2022-08-24,2823.70,"Acme Logistics, Inc. earnings statement, pay date 2022-08-24",,PDF
+New Scan - Copy.png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2026-05-01,,Screenshot of text thread with Kevin A,,PNG
+New Scan .pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2025-03-22,103792.02,American Express Blue Cash ...91007 statement closing 2025-03-22,gf_transfers,PDF
+New Scan .png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2024-11-20,,Screenshot of text thread with Unknown,,PNG
+New Scan final (2).jpg,Photograph,36,Child-Related Expenses Under the Guidelines,Plaintiff,2025-01-22,,Ethan - travel soccer tournament,,JPG
+New Scan final.jpg,Photograph,9,Real Property Ownership,Plaintiff,2025-03-18,,Sable Ridge Lane - front elevation,,JPG
+New Scan final.png,Photograph,9,Real Property Ownership,Plaintiff,2023-07-28,,Sable Ridge Lane - front elevation,,PNG
+new term dec page 2023.pdf,Insurance declarations page,33,Insurance Policies,Joint,2023-03-01,,New York Life Term Life declarations page 2023,,PDF
+new term dec page 2024.pdf,Insurance declarations page,33,Insurance Policies,Joint,2024-03-01,,New York Life Term Life declarations page 2024,,PDF
+new term dec page 2025.pdf,Insurance declarations page,33,Insurance Policies,Joint,2025-03-01,,New York Life Term Life declarations page 2025,,PDF
+nordstrom receipt 2025-01.pdf,Purchase receipt,43,Purchases and Sales Exceeding $100,Plaintiff,2025-01-18,5509.10,"Nordstrom receipt, $5,509.10",,PDF
+nordstrom receipt 2025-03.pdf,Purchase receipt,43,Purchases and Sales Exceeding $100,Plaintiff,2025-03-19,7628.34,"Nordstrom receipt, $7,628.34",gf_transfers,PDF
+northlake ethan 2023-08.pdf,Medical bill / EOB,36,Child-Related Expenses Under the Guidelines,Child,2023-08-21,378.45,Northlake Counseling Group - Statement for Ethan Doe,,PDF
+NORTHLAKE ETHAN 2025-02.pdf,Medical bill / EOB,36,Child-Related Expenses Under the Guidelines,Child,2025-02-09,1463.11,Northlake Counseling Group - Statement for Ethan Doe,,PDF
+northlake ethan 2025-09.pdf,Medical bill / EOB,36,Child-Related Expenses Under the Guidelines,Child,2025-09-11,445.70,Northlake Counseling Group - Statement for Ethan Doe,,PDF
+northlake jane 2022-10.pdf,Medical bill / EOB,34,"Medical, Dental, and Health Expenses",Defendant,2022-10-23,281.20,Northlake Counseling Group - Explanation of Benefits for Jane Elizabeth Doe,wrong_party,PDF
+northlake jane 2025-01.pdf,Medical bill / EOB,34,"Medical, Dental, and Health Expenses",Defendant,2025-01-05,279.59,Northlake Counseling Group - Statement for Jane Elizabeth Doe,wrong_party,PDF
+offer of employment ups.eml,Email,24,Employment Search and Earning Capacity,Plaintiff,2024-02-27,184000.00,"Declined offer of employment at $184,000 base - goes to earning capacity",,EML
+Order confirmation (2).eml,Email,49,Communications Between the Parties and Third Parties,Third party,2024-03-06,,Routine notification email: Order confirmation,,EML
+ORDER CONFIRMATION (3).eml,Email,49,Communications Between the Parties and Third Parties,Third party,2025-08-02,,Routine notification email: Order confirmation,,EML
+Order confirmation.eml,Email,49,Communications Between the Parties and Third Parties,Third party,2026-03-10,,Routine notification email: Order confirmation,,EML
+PAYMENT RECEIVED - THANK YOU (2).eml,Email,49,Communications Between the Parties and Third Parties,Third party,2024-10-07,,Routine notification email: Payment received - thank you,,EML
+Payment received - thank you (3).eml,Email,49,Communications Between the Parties and Third Parties,Third party,2024-02-15,,Routine notification email: Payment received - thank you,,EML
+Payment received - thank you.eml,Email,49,Communications Between the Parties and Third Parties,Third party,2024-09-28,,Routine notification email: Payment received - thank you,,EML
+payments received from Jane.xlsx,Log of payments received from opposing party,28,Payments Received From the Defendant,Defendant,2026-03-20,64438.39,Every payment received from the Defendant since separation,,XLSX
+paypal history Q1 2023.pdf,Peer-to-peer payment history,6,Peer-to-Peer Payment and Digital Wallet Records,Plaintiff,2023-03-28,,PayPal transaction history 2023-01-01 to 2023-03-28,,PDF
+paypal history Q1 2024.pdf,Peer-to-peer payment history,6,Peer-to-Peer Payment and Digital Wallet Records,Plaintiff,2024-03-28,,PayPal transaction history 2024-01-01 to 2024-03-28,,PDF
+paypal history Q1 2026 final.pdf,Peer-to-peer payment history,6,Peer-to-Peer Payment and Digital Wallet Records,Plaintiff,2026-03-28,,PayPal transaction history 2026-01-01 to 2026-03-28,gf_transfers,PDF
+paypal history Q2 2023.pdf,Peer-to-peer payment history,6,Peer-to-Peer Payment and Digital Wallet Records,Plaintiff,2023-06-28,,PayPal transaction history 2023-04-01 to 2023-06-28,,PDF
+paypal history Q2 2024.pdf,Peer-to-peer payment history,6,Peer-to-Peer Payment and Digital Wallet Records,Plaintiff,2024-06-28,,PayPal transaction history 2024-04-01 to 2024-06-28,,PDF
+paypal history Q3 2024.pdf,Peer-to-peer payment history,6,Peer-to-Peer Payment and Digital Wallet Records,Plaintiff,2024-09-28,,PayPal transaction history 2024-07-01 to 2024-09-28,,PDF
+paypal history Q4 2023.pdf,Peer-to-peer payment history,6,Peer-to-Peer Payment and Digital Wallet Records,Plaintiff,2023-12-28,,PayPal transaction history 2023-10-01 to 2023-12-28,,PDF
+paystub acme 2020-01-15 copy.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2020-01-15,2823.70,"Acme Logistics, Inc. earnings statement, pay date 2020-01-15",,PDF
+paystub acme 2020-01-29.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2020-01-29,2823.70,"Acme Logistics, Inc. earnings statement, pay date 2020-01-29",,PDF
+paystub acme 2020-06-17.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2020-06-17,2823.70,"Acme Logistics, Inc. earnings statement, pay date 2020-06-17",,PDF
+PAYSTUB ACME 2020-08-12.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2020-08-12,2823.70,"Acme Logistics, Inc. earnings statement, pay date 2020-08-12",,PDF
+paystub acme 2020-10-21.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2020-10-21,2823.70,"Acme Logistics, Inc. earnings statement, pay date 2020-10-21",,PDF
+paystub acme 2020-11-04.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2020-11-04,2823.70,"Acme Logistics, Inc. earnings statement, pay date 2020-11-04",,PDF
+paystub acme 2020-12-30.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2020-12-30,2823.70,"Acme Logistics, Inc. earnings statement, pay date 2020-12-30",,PDF
+paystub acme 2021-02-24.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2021-02-24,2823.70,"Acme Logistics, Inc. earnings statement, pay date 2021-02-24",,PDF
+paystub acme 2021-06-02.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2021-06-02,2823.70,"Acme Logistics, Inc. earnings statement, pay date 2021-06-02",,PDF
+PAYSTUB ACME 2021-07-28.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2021-07-28,2823.70,"Acme Logistics, Inc. earnings statement, pay date 2021-07-28",,PDF
+paystub acme 2022-04-20.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2022-04-20,2823.70,"Acme Logistics, Inc. earnings statement, pay date 2022-04-20",,PDF
+paystub acme 2022-09-07.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2022-09-07,2823.70,"Acme Logistics, Inc. earnings statement, pay date 2022-09-07",,PDF
+paystub acme 2022-12-28.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2022-12-28,2823.70,"Acme Logistics, Inc. earnings statement, pay date 2022-12-28",,PDF
+PAYSTUB ACME 2023-05-03.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2023-05-03,2823.70,"Acme Logistics, Inc. earnings statement, pay date 2023-05-03",,PDF
+paystub acme 2023-05-17.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2023-05-17,2823.70,"Acme Logistics, Inc. earnings statement, pay date 2023-05-17",,PDF
+paystub acme 2023-09-20.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2023-09-20,2823.70,"Acme Logistics, Inc. earnings statement, pay date 2023-09-20",,PDF
+paystub acme 2023-10-04.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2023-10-04,2823.70,"Acme Logistics, Inc. earnings statement, pay date 2023-10-04",,PDF
+paystub summit 2024-03-18.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2024-03-18,3989.72,"Summit Freight Systems, LLC earnings statement, pay date 2024-03-18",,PDF
+paystub summit 2024-04-01.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2024-04-01,3989.72,"Summit Freight Systems, LLC earnings statement, pay date 2024-04-01",,PDF
+paystub summit 2024-04-29 final.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2024-04-29,3989.72,"Summit Freight Systems, LLC earnings statement, pay date 2024-04-29",,PDF
+paystub summit 2024-09-02.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2024-09-02,3989.72,"Summit Freight Systems, LLC earnings statement, pay date 2024-09-02",,PDF
+paystub summit 2025-01-06.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2025-01-06,3989.72,"Summit Freight Systems, LLC earnings statement, pay date 2025-01-06",,PDF
+paystub summit 2025-03-17.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2025-03-17,3989.72,"Summit Freight Systems, LLC earnings statement, pay date 2025-03-17",,PDF
+paystub summit 2025-05-26 copy.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2025-05-26,3989.72,"Summit Freight Systems, LLC earnings statement, pay date 2025-05-26",,PDF
+PAYSTUB SUMMIT 2025-08-04.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2025-08-04,3989.72,"Summit Freight Systems, LLC earnings statement, pay date 2025-08-04",,PDF
+paystub summit 2025-08-18.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2025-08-18,3989.72,"Summit Freight Systems, LLC earnings statement, pay date 2025-08-18",,PDF
+paystub summit 2025-09-01.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2025-09-01,3989.72,"Summit Freight Systems, LLC earnings statement, pay date 2025-09-01",,PDF
+paystub summit 2026-02-02.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2026-02-02,3989.72,"Summit Freight Systems, LLC earnings statement, pay date 2026-02-02",,PDF
+paystub_summit_2024-06-10.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2024-06-10,3989.72,"Summit Freight Systems, LLC earnings statement, pay date 2024-06-10",,PDF
+paystub_summit_2024-12-09.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2024-12-09,3989.72,"Summit Freight Systems, LLC earnings statement, pay date 2024-12-09",,PDF
+paystub_summit_2025-09-29.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2025-09-29,3989.72,"Summit Freight Systems, LLC earnings statement, pay date 2025-09-29",,PDF
+peachtree checking apr 2024 - copy.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-04-28,15531.27,DUPLICATE of PEACHTREE CHECKING APR 2024.pdf,duplicate,PDF
+PEACHTREE CHECKING APR 2024.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-04-28,15531.27,Peachtree Federal Credit Union Checking ...4417 statement April 2024,,PDF
+peachtree checking aug 2023.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2023-08-28,18080.95,Peachtree Federal Credit Union Checking ...4417 statement August 2023,,PDF
+peachtree checking aug 2024.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-08-28,25903.17,Peachtree Federal Credit Union Checking ...4417 statement August 2024,,PDF
+PEACHTREE CHECKING DEC 2021.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2021-12-28,17822.65,Peachtree Federal Credit Union Checking ...4417 statement December 2021,,PDF
+peachtree checking dec 2025 (2).pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2025-12-28,23932.11,DUPLICATE of peachtree checking dec 2025.pdf,cash_withdrawals; gf_transfers; duplicate,PDF
+peachtree checking dec 2025.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2025-12-28,23932.11,Peachtree Federal Credit Union Checking ...4417 statement December 2025,cash_withdrawals; gf_transfers,PDF
+peachtree checking feb 2021.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2021-02-28,8046.40,Peachtree Federal Credit Union Checking ...4417 statement February 2021,,PDF
+peachtree checking feb 2023.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2023-02-28,18202.92,Peachtree Federal Credit Union Checking ...4417 statement February 2023,,PDF
+peachtree checking feb 2026 (2).pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2026-02-28,8140.22,COPY 2 of 2 CONFLICTS - Peachtree Federal Credit Union ...4417 February 2026,conflicting_copies,PDF
+peachtree checking feb 2026.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2026-02-28,28924.74,Peachtree Federal Credit Union Checking ...4417 statement February 2026,,PDF
+peachtree checking jan 2025.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2025-01-28,569.66,COPY 1 of 2 - Peachtree Federal Credit Union ...4417 January 2025,conflicting_copies,PDF
+peachtree checking jul 2023.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2023-07-28,19571.64,Peachtree Federal Credit Union Checking ...4417 statement July 2023,,PDF
+peachtree checking jun 2022.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2022-06-28,19372.81,Peachtree Federal Credit Union Checking ...4417 statement June 2022,,PDF
+peachtree checking mar 2026 - Copy (2).pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2026-03-28,33570.59,DUPLICATE of peachtree checking mar 2026.pdf,duplicate,PDF
+peachtree checking mar 2026.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2026-03-28,33570.59,Peachtree Federal Credit Union Checking ...4417 statement March 2026,,PDF
+PEACHTREE CHECKING MAY 2021.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2021-05-28,11938.80,Peachtree Federal Credit Union Checking ...4417 statement May 2021,,PDF
+peachtree checking may 2023 copy.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2023-05-28,18264.72,DUPLICATE of peachtree checking may 2023.pdf,duplicate,PDF
+peachtree checking may 2023.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2023-05-28,18264.72,Peachtree Federal Credit Union Checking ...4417 statement May 2023,,PDF
+peachtree checking may 2024.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-05-28,18821.24,Peachtree Federal Credit Union Checking ...4417 statement May 2024,,PDF
+peachtree checking may 2025.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2025-05-28,40549.96,Peachtree Federal Credit Union Checking ...4417 statement May 2025,gf_transfers,PDF
+peachtree checking nov 2022 (1).pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2022-11-28,20651.53,Peachtree Federal Credit Union Checking ...4417 statement November 2022,,PDF
+PEACHTREE CHECKING NOV 2023_1.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2023-11-28,12797.97,DUPLICATE of PEACHTREE CHECKING NOV 2023.pdf,duplicate,PDF
+peachtree checking oct 2022 (1).pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2022-10-28,19395.06,DUPLICATE of peachtree checking oct 2022.pdf,duplicate,PDF
+PEACHTREE CHECKING OCT 2023 FINAL.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2023-10-28,21190.28,DUPLICATE of peachtree checking oct 2023.pdf,duplicate,PDF
+peachtree checking oct 2025.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2025-10-28,34555.07,Peachtree Federal Credit Union Checking ...4417 statement October 2025,cash_withdrawals,PDF
+peachtree checking sep 2021.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2021-09-28,14161.21,Peachtree Federal Credit Union Checking ...4417 statement September 2021,,PDF
+PEACHTREE CHECKING SEP 2022 FINAL.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2022-09-28,16587.77,Peachtree Federal Credit Union Checking ...4417 statement September 2022,,PDF
+peachtree checking transactions 2023 FINAL.csv,Bank transaction export,4,Bank and Depository Accounts,Plaintiff,2023-12-31,,Peachtree Federal Credit Union ...4417 2023 transaction download,,CSV
+peachtree checking transactions 2024.csv,Bank transaction export,4,Bank and Depository Accounts,Plaintiff,2024-12-31,,Peachtree Federal Credit Union ...4417 2024 transaction download,,CSV
+peachtree checking transactions 2025.csv,Bank transaction export,4,Bank and Depository Accounts,Plaintiff,2025-12-31,,Peachtree Federal Credit Union ...4417 2025 transaction download,,CSV
+peachtree combined 2022 (2).pdf,Combined multi-period bank statements,4,Bank and Depository Accounts,Plaintiff,2022-03-31,,Three statement periods combined into a single PDF - needs splitting,combined,PDF
+peachtree combined 2022.pdf,Combined multi-period bank statements,4,Bank and Depository Accounts,Plaintiff,2022-03-31,,Three statement periods combined into a single PDF - needs splitting,combined,PDF
+PEACHTREE ETHAN 2023-06.pdf,Medical bill / EOB,36,Child-Related Expenses Under the Guidelines,Child,2023-06-01,831.96,Peachtree Urgent Care - Statement for Ethan Doe,,PDF
+peachtree ethan 2025-04.pdf,Medical bill / EOB,36,Child-Related Expenses Under the Guidelines,Child,2025-04-11,429.27,Peachtree Urgent Care - Explanation of Benefits for Ethan Doe,,PDF
+peachtree jane 2022-08.pdf,Medical bill / EOB,34,"Medical, Dental, and Health Expenses",Defendant,2022-08-01,1503.49,Peachtree Urgent Care - Statement for Jane Elizabeth Doe,wrong_party,PDF
+PEACHTREE MONEY MARKET APR 2025.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2025-04-28,-19884.52,Peachtree Federal Credit Union Money Market ...9930 statement April 2025,overdrawn,PDF
+peachtree money market dec 2021.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2021-12-28,8787.54,Peachtree Federal Credit Union Money Market ...9930 statement December 2021,,PDF
+PEACHTREE MONEY MARKET DEC 2023 - Copy duplicate.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2023-12-28,-1654.23,DUPLICATE of PEACHTREE MONEY MARKET DEC 2023 - Copy.pdf,overdrawn; duplicate,PDF
+PEACHTREE MONEY MARKET DEC 2023 - Copy.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2023-12-28,-1654.23,Peachtree Federal Credit Union Money Market ...9930 statement December 2023,overdrawn,PDF
+peachtree money market feb 2023 (1).pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2023-02-28,-1062.62,Peachtree Federal Credit Union Money Market ...9930 statement February 2023,overdrawn,PDF
+PEACHTREE MONEY MARKET FEB 2026.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2026-02-28,-26963.88,Peachtree Federal Credit Union Money Market ...9930 statement February 2026,overdrawn,PDF
+PEACHTREE MONEY MARKET MAR 2021.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2021-03-28,18238.97,Peachtree Federal Credit Union Money Market ...9930 statement March 2021,,PDF
+peachtree money market mar 2024 copy.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-03-28,-6164.37,DUPLICATE of peachtree money market mar 2024.pdf,overdrawn; duplicate,PDF
+peachtree money market mar 2024.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-03-28,-6164.37,Peachtree Federal Credit Union Money Market ...9930 statement March 2024,overdrawn,PDF
+PEACHTREE MONEY MARKET MAR 2026.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2026-03-28,-30589.62,Peachtree Federal Credit Union Money Market ...9930 statement March 2026,overdrawn,PDF
+peachtree money market nov 2022.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2022-11-28,-1767.31,Peachtree Federal Credit Union Money Market ...9930 statement November 2022,overdrawn,PDF
+peachtree money market nov 2023.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2023-11-28,-347.46,Peachtree Federal Credit Union Money Market ...9930 statement November 2023,overdrawn,PDF
+peachtree money market nov 2024 copy.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-11-28,-16510.18,Peachtree Federal Credit Union Money Market ...9930 statement November 2024,overdrawn,PDF
+peachtree money market nov 2025.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2025-11-28,-23334.98,Peachtree Federal Credit Union Money Market ...9930 statement November 2025,overdrawn,PDF
+PEACHTREE MONEY MARKET OCT 2021 FINAL - Copy (2).pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2021-10-28,10651.17,DUPLICATE of PEACHTREE MONEY MARKET OCT 2021 FINAL.pdf,duplicate,PDF
+PEACHTREE MONEY MARKET OCT 2021 FINAL.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2021-10-28,10651.17,Peachtree Federal Credit Union Money Market ...9930 statement October 2021,,PDF
+peachtree money market transactions 2024.xlsx,Bank transaction export,4,Bank and Depository Accounts,Plaintiff,2024-12-31,,Peachtree Federal Credit Union ...9930 2024 transaction download,,XLSX
+peachtree money market transactions 2025.csv,Bank transaction export,4,Bank and Depository Accounts,Plaintiff,2025-12-31,,Peachtree Federal Credit Union ...9930 2025 transaction download,,CSV
+peachtree olivia 2024-11.pdf,Medical bill / EOB,36,Child-Related Expenses Under the Guidelines,Child,2024-11-08,1372.78,Peachtree Urgent Care - Statement for Olivia Doe,,PDF
+peachtree receipt 2025-08.pdf,Purchase receipt,43,Purchases and Sales Exceeding $100,Plaintiff,2025-08-12,2276.22,"Peachtree Landscape receipt, $2,276.22",,PDF
+peachtree_checking_dec_2023 FINAL.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2023-12-28,11401.70,DUPLICATE of peachtree_checking_dec_2023.pdf,duplicate,PDF
+peachtree_checking_dec_2023.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2023-12-28,11401.70,Peachtree Federal Credit Union Checking ...4417 statement December 2023,,PDF
+peachtree_checking_jul_2025 (1).pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2025-07-28,42765.62,Peachtree Federal Credit Union Checking ...4417 statement July 2025,,PDF
+PEACHTREE_MONEY_MARKET_AUG_2024.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-08-28,-14738.10,Peachtree Federal Credit Union Money Market ...9930 statement August 2024,overdrawn,PDF
+PERSONAL FINANCIAL STATEMENT AUTO LOAN 2024.pdf,Personal financial / net worth statement,19,Financial and Net Worth Statements,Plaintiff,2024-06-14,,Net worth statement given to a lender for auto loan,undisclosed_coinbase; sched_c_omitted,PDF
+personal financial statement mortgage refinance 2022.pdf,Personal financial / net worth statement,19,Financial and Net Worth Statements,Plaintiff,2022-06-14,,Net worth statement given to a lender for mortgage refinance,undisclosed_coinbase; sched_c_omitted,PDF
+PERSONAL FINANCIAL STATEMENT SOFI PERSONAL LOAN 2025.pdf,Personal financial / net worth statement,19,Financial and Net Worth Statements,Plaintiff,2025-06-14,,Net worth statement given to a lender for SoFi personal loan,undisclosed_coinbase; sched_c_omitted,PDF
+Personal injury settlement - 2021 rear-e.pdf,"Record of gift, inheritance, or settlement received",42,Gifts and Inheritances Received,Plaintiff,2021-10-04,22500.00,Personal injury settlement - 2021 rear-end collision,separate_property_tracing,PDF
+planet fitness membership 2025 revised.pdf,Membership agreement,48,Charitable Contributions and Memberships,Plaintiff,2025-01-01,299.88,Gym membership billing summary 2025,,PDF
+planet_fitness_membership_2024.pdf,Membership agreement,48,Charitable Contributions and Memberships,Plaintiff,2024-01-01,299.88,Gym membership billing summary 2024,,PDF
+Practice schedule change (2).eml,Email,49,Communications Between the Parties and Third Parties,Third party,2024-11-07,,Routine notification email: Practice schedule change,,EML
+Practice schedule change.eml,Email,49,Communications Between the Parties and Third Parties,Third party,2025-07-12,,Routine notification email: Practice schedule change,,EML
+print.pdf,Brokerage account statement,8,Brokerage and Securities Accounts,Plaintiff,2025-12-28,13163.52,Robinhood RH-9920144 statement,undisclosed_robinhood,PDF
+print.png,Text message screenshot,21,Business Financial Records,Plaintiff,2025-09-08,,Screenshot of text thread with Kevin A,sched_c_omitted,PNG
+PRIVILEGED - my thoughts on the settlement n.eml,Email,49,Communications Between the Parties and Third Parties,Plaintiff,2026-02-18,,Email: PRIVILEGED - my thoughts on the settlement number,privileged; undisclosed_ally,EML
+quitclaim deed 2019.pdf,Quitclaim Deed,10,Deeds and Security Instruments,Joint,2019-11-02,10.00,"Quitclaim Deed recorded 2019-11-02, Book 57880 Page 0455",separate_property_tracing,PDF
+Rate change notice (2).eml,Email,49,Communications Between the Parties and Third Parties,Third party,2026-01-11,,Routine notification email: Rate change notice,,EML
+Rate change notice (3).eml,Email,49,Communications Between the Parties and Third Parties,Third party,2024-05-19,,Routine notification email: Rate change notice,,EML
+Rate change notice (4).eml,Email,49,Communications Between the Parties and Third Parties,Third party,2025-05-23,,Routine notification email: Rate change notice,,EML
+RATE CHANGE NOTICE (5).eml,Email,49,Communications Between the Parties and Third Parties,Third party,2025-02-22,,Routine notification email: Rate change notice,,EML
+Rate change notice.eml,Email,49,Communications Between the Parties and Third Parties,Third party,2026-02-14,,Routine notification email: Rate change notice,,EML
+RE- the truck.eml,Email,49,Communications Between the Parties and Third Parties,Plaintiff,2026-02-18,,Email: RE: the truck,,EML
+regions checking apr 2023.pdf,Bank statement,4,Bank and Depository Accounts,Doe Consulting LLC,2023-04-28,-27307.88,Regions Bank Checking ...2288 statement April 2023,overdrawn,PDF
+regions checking aug 2024.pdf,Bank statement,4,Bank and Depository Accounts,Doe Consulting LLC,2024-08-28,-75203.72,Regions Bank Checking ...2288 statement August 2024,overdrawn,PDF
+REGIONS CHECKING DEC 2023.pdf,Bank statement,4,Bank and Depository Accounts,Doe Consulting LLC,2023-12-28,-59083.05,Regions Bank Checking ...2288 statement December 2023,overdrawn,PDF
+regions checking jul 2022.pdf,Bank statement,4,Bank and Depository Accounts,Doe Consulting LLC,2022-07-28,-8570.87,Regions Bank Checking ...2288 statement July 2022,overdrawn,PDF
+regions checking jul 2023.pdf,Bank statement,4,Bank and Depository Accounts,Doe Consulting LLC,2023-07-28,-51428.72,Regions Bank Checking ...2288 statement July 2023,overdrawn,PDF
+regions checking jun 2025.pdf,Bank statement,4,Bank and Depository Accounts,Doe Consulting LLC,2025-06-28,-96700.39,Regions Bank Checking ...2288 statement June 2025,overdrawn,PDF
+regions checking jun 2025_1.pdf,Bank statement,4,Bank and Depository Accounts,Doe Consulting LLC,2025-06-28,-96700.39,DUPLICATE of regions checking jun 2025.pdf,overdrawn; duplicate,PDF
+regions checking mar 2024 - Copy (2).pdf,Bank statement,4,Bank and Depository Accounts,Doe Consulting LLC,2024-03-28,-69360.88,DUPLICATE of regions checking mar 2024.pdf,overdrawn; duplicate,PDF
+regions checking mar 2024.pdf,Bank statement,4,Bank and Depository Accounts,Doe Consulting LLC,2024-03-28,-69360.88,Regions Bank Checking ...2288 statement March 2024,overdrawn,PDF
+regions checking may 2023.pdf,Bank statement,4,Bank and Depository Accounts,Doe Consulting LLC,2023-05-28,-40905.05,Regions Bank Checking ...2288 statement May 2023,overdrawn,PDF
+regions checking may 2025.pdf,Bank statement,4,Bank and Depository Accounts,Doe Consulting LLC,2025-05-28,-85621.78,Regions Bank Checking ...2288 statement May 2025,overdrawn,PDF
+regions checking oct 2022.pdf,Bank statement,4,Bank and Depository Accounts,Doe Consulting LLC,2022-10-28,-17826.71,Regions Bank Checking ...2288 statement October 2022,overdrawn,PDF
+regions checking oct 2022_1.pdf,Bank statement,4,Bank and Depository Accounts,Doe Consulting LLC,2022-10-28,-17826.71,DUPLICATE of regions checking oct 2022.pdf,overdrawn; duplicate,PDF
+regions checking oct 2023.pdf,Bank statement,4,Bank and Depository Accounts,Doe Consulting LLC,2023-10-28,-53194.78,Regions Bank Checking ...2288 statement October 2023,overdrawn,PDF
+regions checking oct 2025.pdf,Bank statement,4,Bank and Depository Accounts,Doe Consulting LLC,2025-10-28,-110021.97,Regions Bank Checking ...2288 statement October 2025,overdrawn,PDF
+regions checking sep 2025.pdf,Bank statement,4,Bank and Depository Accounts,Doe Consulting LLC,2025-09-28,-104483.33,Regions Bank Checking ...2288 statement September 2025,overdrawn,PDF
+regions_checking_jan_2024.pdf,Bank statement,4,Bank and Depository Accounts,Doe Consulting LLC,2024-01-28,-65520.50,Regions Bank Checking ...2288 statement January 2024,overdrawn,PDF
+regions_checking_sep_2022.pdf,Bank statement,4,Bank and Depository Accounts,Doe Consulting LLC,2022-09-28,-14270.98,Regions Bank Checking ...2288 statement September 2022,overdrawn,PDF
+rei_receipt_2024-12.pdf,Purchase receipt,43,Purchases and Sales Exceeding $100,Plaintiff,2024-12-16,11912.97,"REI Co-op receipt, $11,912.97",,PDF
+Report card available (2).eml,Email,49,Communications Between the Parties and Third Parties,Third party,2025-11-26,,Routine notification email: Report card available,,EML
+REPORT CARD AVAILABLE.eml,Email,49,Communications Between the Parties and Third Parties,Third party,2026-02-23,,Routine notification email: Report card available,,EML
+RESUME JOHN DOE.docx,Resume,25,Credentials and Qualifications,Plaintiff,2026-01-08,,Current resume listing three concurrent income sources,gig_income,DOCX
+robinhood brokerage aug 2022.pdf,Brokerage account statement,8,Brokerage and Securities Accounts,Plaintiff,2022-08-28,12387.58,Robinhood RH-9920144 statement,undisclosed_robinhood,PDF
+robinhood brokerage dec 2024 copy.pdf,Brokerage account statement,8,Brokerage and Securities Accounts,Plaintiff,2024-12-28,12453.56,Robinhood RH-9920144 statement,undisclosed_robinhood,PDF
+robinhood brokerage feb 2026 new.pdf,Brokerage account statement,8,Brokerage and Securities Accounts,Plaintiff,2026-02-28,12449.55,Robinhood RH-9920144 statement,undisclosed_robinhood,PDF
+robinhood brokerage jan 2026.pdf,Brokerage account statement,8,Brokerage and Securities Accounts,Plaintiff,2026-01-28,12809.57,Robinhood RH-9920144 statement,undisclosed_robinhood,PDF
+robinhood brokerage jul 2022.pdf,Brokerage account statement,8,Brokerage and Securities Accounts,Plaintiff,2022-07-28,12701.06,Robinhood RH-9920144 statement,undisclosed_robinhood,PDF
+robinhood brokerage jun 2022.pdf,Brokerage account statement,8,Brokerage and Securities Accounts,Plaintiff,2022-06-28,12194.81,Robinhood RH-9920144 statement,undisclosed_robinhood,PDF
+robinhood brokerage jun 2025.pdf,Brokerage account statement,8,Brokerage and Securities Accounts,Plaintiff,2025-06-28,12914.90,Robinhood RH-9920144 statement,undisclosed_robinhood,PDF
+robinhood brokerage may 2022.pdf,Brokerage account statement,8,Brokerage and Securities Accounts,Plaintiff,2022-05-28,12078.52,Robinhood RH-9920144 statement,undisclosed_robinhood,PDF
+ROBINHOOD BROKERAGE MAY 2023 v2.pdf,Brokerage account statement,8,Brokerage and Securities Accounts,Plaintiff,2023-05-28,12805.14,Robinhood RH-9920144 statement,undisclosed_robinhood,PDF
+robinhood brokerage nov 2022.pdf,Brokerage account statement,8,Brokerage and Securities Accounts,Plaintiff,2022-11-28,12669.98,Robinhood RH-9920144 statement,undisclosed_robinhood,PDF
+robinhood brokerage nov 2023.pdf,Brokerage account statement,8,Brokerage and Securities Accounts,Plaintiff,2023-11-28,13138.07,Robinhood RH-9920144 statement,undisclosed_robinhood,PDF
+robinhood brokerage oct 2024.pdf,Brokerage account statement,8,Brokerage and Securities Accounts,Plaintiff,2024-10-28,12827.35,Robinhood RH-9920144 statement,undisclosed_robinhood,PDF
+rockbridge invoice 2022-07.pdf,Child activity / school invoice,36,Child-Related Expenses Under the Guidelines,Child,2022-07-02,1379.18,Rockbridge Elementary School - Public Elementary for Ethan Doe,,PDF
+rockbridge invoice 2025-01.pdf,Child activity / school invoice,36,Child-Related Expenses Under the Guidelines,Child,2025-01-09,899.81,Rockbridge Elementary School - Public Elementary for Ethan Doe,,PDF
+rocket mortgage aug 2022.pdf,Mortgage statement,11,"Mortgage, HELOC, and Home Equity Records",Joint,2022-08-28,315312.55,Rocket Mortgage monthly statement,,PDF
+rocket mortgage dec 2025.pdf,Mortgage statement,11,"Mortgage, HELOC, and Home Equity Records",Joint,2025-12-28,301987.63,Rocket Mortgage monthly statement,,PDF
+rocket mortgage jan 2023.pdf,Mortgage statement,11,"Mortgage, HELOC, and Home Equity Records",Joint,2023-01-28,313122.40,Rocket Mortgage monthly statement,,PDF
+rocket mortgage jul 2022.pdf,Mortgage statement,11,"Mortgage, HELOC, and Home Equity Records",Joint,2022-07-28,315967.45,Rocket Mortgage monthly statement,,PDF
+rocket mortgage jul 2023.pdf,Mortgage statement,11,"Mortgage, HELOC, and Home Equity Records",Joint,2023-07-28,311517.17,Rocket Mortgage monthly statement,,PDF
+rocket mortgage jun 2022 updated.pdf,Mortgage statement,11,"Mortgage, HELOC, and Home Equity Records",Joint,2022-06-28,316374.59,Rocket Mortgage monthly statement,,PDF
+rocket mortgage mar 2024.pdf,Mortgage statement,11,"Mortgage, HELOC, and Home Equity Records",Joint,2024-03-28,308651.62,Rocket Mortgage monthly statement,,PDF
+rocket mortgage mar 2025.pdf,Mortgage statement,11,"Mortgage, HELOC, and Home Equity Records",Joint,2025-03-28,304176.70,Rocket Mortgage monthly statement,,PDF
+rocket mortgage may 2022.pdf,Mortgage statement,11,"Mortgage, HELOC, and Home Equity Records",Joint,2022-05-28,317004.10,Rocket Mortgage monthly statement,,PDF
+rocket mortgage may 2024 - Copy.pdf,Mortgage statement,11,"Mortgage, HELOC, and Home Equity Records",Joint,2024-05-28,307997.48,Rocket Mortgage monthly statement,,PDF
+rocket mortgage oct 2024.pdf,Mortgage statement,11,"Mortgage, HELOC, and Home Equity Records",Joint,2024-10-28,306302.72,Rocket Mortgage monthly statement,,PDF
+rocket mortgage sep 2024.pdf,Mortgage statement,11,"Mortgage, HELOC, and Home Equity Records",Joint,2024-09-28,306778.12,Rocket Mortgage monthly statement,,PDF
+rocket_mortgage_jul_2024.pdf,Mortgage statement,11,"Mortgage, HELOC, and Home Equity Records",Joint,2024-07-28,307454.64,Rocket Mortgage monthly statement,,PDF
+SABLE INVOICE 2023-06.pdf,Child activity / school invoice,36,Child-Related Expenses Under the Guidelines,Child,2023-06-25,1903.39,Sable Ridge Montessori - Preschool / After-school for Olivia Doe,,PDF
+sable invoice 2026-03.pdf,Child activity / school invoice,36,Child-Related Expenses Under the Guidelines,Child,2026-03-15,601.37,Sable Ridge Montessori - Preschool / After-school for Olivia Doe,,PDF
+scan0013.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2025-03-28,37501.79,Peachtree Federal Credit Union Checking ...4417 statement March 2025,cash_withdrawals,PDF
+scan0015.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2022-10-28,2630.40,Truist Bank Checking ...8802 statement October 2022,,PDF
+scan0016.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2026-03-28,-19515.81,Truist Bank Checking ...8802 statement March 2026,undisclosed_ally; overdrawn,PDF
+scan0017.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2025-04-28,-14062.00,Ally Bank Online Savings ...5561 statement April 2025,overdrawn; undisclosed_ally,PDF
+scan0018.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2026-03-22,109459.35,Chase Sapphire ...6621 statement closing 2026-03-22,,PDF
+scan0025.pdf,Federal income tax return (Form 1040),1,Tax Returns,Joint,2024-04-12,146200.00,"2023 Form 1040, AGI $146,200.00",sched_c_omitted,PDF
+scan0026.pdf,Georgia state income tax return (Form 500),1,Tax Returns,Joint,2026-04-12,171450.00,2025 Georgia Form 500,,PDF
+scan0027.pdf,Form W-2,2,Wage and Earnings Records,Plaintiff,2021-01-31,106200.00,"2020 W-2 from Acme Logistics, Inc.",,PDF
+scan0028.pdf,Form 1099-DIV,2,Wage and Earnings Records,Plaintiff,2026-01-31,1288.05,2025 Form 1099-DIV from Charles Schwab,undisclosed_roth,PDF
+scan0029.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2024-09-28,169493.37,"Fidelity NetBenefits 401(k) statement, quarter ending 2024-09-28",,PDF
+scan0030.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2025-06-28,165385.41,"Fidelity NetBenefits 401(k) statement, quarter ending 2025-06-28",,PDF
+scan0031.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2026-03-28,150681.97,"Fidelity NetBenefits 401(k) statement, quarter ending 2026-03-28",,PDF
+scan0032.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2021-09-28,97299.66,"Vanguard Rollover IRA statement, quarter ending 2021-09-28",,PDF
+scan0033.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2024-12-28,115888.84,"Vanguard Rollover IRA statement, quarter ending 2024-12-28",,PDF
+scan0034.pdf,Brokerage account statement,8,Brokerage and Securities Accounts,Plaintiff,2024-10-28,68125.62,Fidelity Investments Z2214477 statement,,PDF
+scan0035.pdf,Cryptocurrency exchange statement,7,Cryptocurrency and Digital Assets,Plaintiff,2025-01-28,10947.24,Coinbase account statement,undisclosed_coinbase,PDF
+scan0036.pdf,Cryptocurrency exchange statement,7,Cryptocurrency and Digital Assets,Plaintiff,2026-03-28,33415.88,Coinbase account statement,undisclosed_coinbase,PDF
+scan0037.pdf,Peer-to-peer payment history,6,Peer-to-Peer Payment and Digital Wallet Records,Plaintiff,2022-12-28,,Cash App transaction history 2022-10-01 to 2022-12-28,,PDF
+scan0039.pdf,Loan statement,13,"Debts, Loans, and Guaranties",Plaintiff,2025-08-28,36008.89,Ally Financial Auto Loan statement,,PDF
+scan0040.pdf,Insurance declarations page,33,Insurance Policies,Joint,2026-03-01,,Blue Cross Blue Shield of Georgia Health PPO declarations page 2026,,PDF
+scan0041.pdf,Medical bill / EOB,36,Child-Related Expenses Under the Guidelines,Child,2025-11-13,227.93,Sugarloaf Orthodontics - Statement for Olivia Doe,,PDF
+scan0044.pdf,Child activity / school invoice,36,Child-Related Expenses Under the Guidelines,Child,2022-06-18,1305.92,Rockbridge Elementary School - Public Elementary for Ethan Doe,,PDF
+scan0045.pdf,Utility bill,31,"Utility, Cable, and Household Service Accounts",Joint,2024-05-28,274.61,Georgia Power Electric bill,,PDF
+scan0047.pdf,Safe deposit box inventory and access log,18,Safe Deposit Boxes and Storage,Joint,2025-11-03,,Box access log showing entry two days before separation,cash_withdrawals; storage_unit,PDF
+scan0048.eml,Email,36,Child-Related Expenses Under the Guidelines,Plaintiff,2025-06-18,,Email: the kids' fall schedule,,EML
+scan0049.eml,Email,49,Communications Between the Parties and Third Parties,Third party,2026-03-10,,Routine notification email: Rate change notice,,EML
+scan0050.png,Text message screenshot,4,Bank and Depository Accounts,Plaintiff,2026-02-18,,Screenshot of text thread with Jane,statement_gap,PNG
+scan0051.png,Text message screenshot,7,Cryptocurrency and Digital Assets,Plaintiff,2026-04-24,,Screenshot of text thread with Danny (brother),undisclosed_coinbase; undisclosed_ally,PNG
+scan0052.png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2025-10-10,,Screenshot of text thread with Tia (sitter),,PNG
+scan0053.png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2025-05-26,,Screenshot of text thread with Jane,,PNG
+scan0054.png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2024-07-04,,Screenshot of text thread with Tia (sitter),,PNG
+scan0055.png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2025-07-02,,Screenshot of text thread with Danny (brother),,PNG
+scan0056.png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2026-03-21,,Screenshot of text thread with Mara,,PNG
+scan0057.png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2024-06-05,,Screenshot of text thread with Mara,,PNG
+scan0058.png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2025-03-04,,Screenshot of text thread with Mom,,PNG
+scan0059.png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2026-08-01,,Screenshot of text thread with Mara,,PNG
+scan0060.png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2025-01-08,,Screenshot of text thread with Mom,,PNG
+scan0061.jpeg,Photograph,9,Real Property Ownership,Plaintiff,2024-06-24,,Sable Ridge Lane - front elevation,,JPEG
+scan0062.jpg,Photograph,9,Real Property Ownership,Plaintiff,2023-10-19,,Sable Ridge Lane - front elevation,,JPG
+scan0063.heic,Photograph,9,Real Property Ownership,Plaintiff,2025-07-18,,Kitchen renovation - post,,HEIC
+scan0064.jpg,Photograph,9,Real Property Ownership,Plaintiff,2026-06-18,,Kitchen renovation - post,,JPG
+scan0065.jpg,Photograph,12,"Vehicles, Boats, and Titled Property",Plaintiff,2026-12-12,,"2022 Ford F-150 - odometer 41,220",,JPG
+scan0066.png,Photograph,12,"Vehicles, Boats, and Titled Property",Plaintiff,2026-10-06,,"2022 Ford F-150 - odometer 41,220",,PNG
+scan0067.HEIC,Photograph,44,"Collectibles, Precious Metals, and Valuables",Plaintiff,2024-05-01,,Yamaha 242X at Lake Lanier slip,jewelry,HEIC
+scan0068.jpg,Photograph,44,"Collectibles, Precious Metals, and Valuables",Plaintiff,2025-01-09,,Gold Eagle coins and silver bars,cash_withdrawals,JPG
+scan0069.jpg,Photograph,44,"Collectibles, Precious Metals, and Valuables",Plaintiff,2023-12-19,,Gold Eagle coins and silver bars,cash_withdrawals,JPG
+scan0070.jpeg,Photograph,44,"Collectibles, Precious Metals, and Valuables",Plaintiff,2026-01-20,,Gold Eagle coins and silver bars,cash_withdrawals,JPEG
+scan0071.HEIC,Photograph,46,"Travel, Vacation, and Entertainment",Plaintiff,2023-12-23,,Cabo San Lucas - Hotel El Ganzo,gf_transfers,HEIC
+scan0072.jpg,Photograph,36,Child-Related Expenses Under the Guidelines,Plaintiff,2024-06-01,,Olivia - dance recital,,JPG
+scan0073.jpg,Photograph,36,Child-Related Expenses Under the Guidelines,Plaintiff,2026-08-23,,Olivia - dance recital,,JPG
+scan0074.HEIC,Photograph,18,Safe Deposit Boxes and Storage,Plaintiff,2024-07-22,,Storage unit 2208 interior,storage_unit,HEIC
+scan0075.jpg,Photograph,18,Safe Deposit Boxes and Storage,Plaintiff,2026-01-25,,Storage unit 2208 interior,storage_unit,JPG
+scan0076.txt,Account inventory list,50,"Social Media, Dating Applications, and Device Data",Plaintiff,2026-03-04,,List of online accounts and handles,gf_transfers,TXT
+scan0077.pdf,Purchase receipt,43,Purchases and Sales Exceeding $100,Plaintiff,2023-11-19,9461.61,"Ticketmaster receipt, $9,461.61",,PDF
+scan0078.pdf,Purchase receipt,43,Purchases and Sales Exceeding $100,Plaintiff,2022-09-20,9826.14,"Lake Lanier Marina receipt, $9,826.14",,PDF
+scan0079.pdf,Purchase receipt,43,Purchases and Sales Exceeding $100,Plaintiff,2022-03-12,24024.52,"Total Wine & More receipt, $24,024.52",,PDF
+scan0080.pdf,Blank or illegible scan,,,Unknown,,,"Blank page - no content, no text layer",blank_scan,PDF
+scan0081.pdf,Blank or illegible scan,,,Unknown,,,"Blank page - no content, no text layer",blank_scan,PDF
+scan0082.pdf,Blank or illegible scan,,,Unknown,,,"Blank page - no content, no text layer",blank_scan,PDF
+scan0083.pdf,Blank or illegible scan,,,Unknown,,,"Blank page - no content, no text layer",blank_scan,PDF
+scan0084.pdf,Scanned document (no text layer),4,Bank and Depository Accounts,Plaintiff,,,Bank statement (image-only scan),cash_withdrawals; blank_scan,PDF
+scan0085.pdf,Scanned document (no text layer),4,Bank and Depository Accounts,Plaintiff,,,Bank statement (image-only scan),cash_withdrawals; blank_scan,PDF
+scan0086.pdf,Scanned document (no text layer),19,Financial and Net Worth Statements,Plaintiff,,,Handwritten note found in the file,undisclosed_ally; undisclosed_coinbase; undisclosed_robinhood; undisclosed_roth,PDF
+scan0087.pdf,Scanned document (no text layer),9,Real Property Ownership,Plaintiff,,,Gift letter supporting a separate property claim,separate_property_tracing,PDF
+scan0088.pdf,Third-party account statement,4,Bank and Depository Accounts,Third party,2023-09-23,,Account statement belonging to Harold R. Doe,wrong_party,PDF
+scan0089.pdf,Third-party account statement,4,Bank and Depository Accounts,Third party,2024-12-19,,Account statement belonging to Daniel R. Doe,wrong_party,PDF
+scan0090.pdf,Third-party account statement,4,Bank and Depository Accounts,Third party,2024-02-28,,Account statement belonging to Jane Elizabeth Doe,wrong_party,PDF
+scan0091.pdf,Combined multi-period bank statements,4,Bank and Depository Accounts,Plaintiff,2021-03-31,,Three statement periods combined into a single PDF - needs splitting,combined,PDF
+scan0092.xlsx,Credit card year-end summary,5,Credit Cards and Charge Accounts,Plaintiff,2023-12-31,,American Express Blue Cash ...91007 2023 spend summary by category,,XLSX
+scan0093.qfx,OFX/QFX bank download,4,Bank and Depository Accounts,Plaintiff,2025-12-31,,Peachtree Federal Credit Union ...4417 Quicken download file,,QFX
+scan0094.xlsx,Job search log,24,Employment Search and Earning Capacity,Plaintiff,2024-06-30,,Log of applications and postings during the 2024 unemployment period,,XLSX
+scan0095.pdf,Transfer confirmation - payment from opposing party,28,Payments Received From the Defendant,Defendant,2025-09-17,450.00,Zelle received from the Defendant,,PDF
+scan0096.pdf,Probate estate accounting,42,Gifts and Inheritances Received,Third party,2023-08-02,48200.00,Final accounting showing the inheritance received by Plaintiff,separate_property_tracing,PDF
+scan0097.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2025-04-28,-19884.52,DUPLICATE of PEACHTREE MONEY MARKET APR 2025.pdf,overdrawn; duplicate,PDF
+scan0098.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-09-28,36733.43,DUPLICATE of peachtree checking sep 2024.pdf,duplicate,PDF
+scan0099.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-11-28,45636.23,DUPLICATE of peachtree checking nov 2024.pdf,duplicate,PDF
+SETTLEMENT PROPOSAL DRAFT.docx,Attorney work product / notes,49,Communications Between the Parties and Third Parties,Plaintiff,2026-03-05,,SETTLEMENT PROPOSAL - CONFIDENTIAL,privileged,DOCX
+sofi aug 2024.pdf,Loan statement,13,"Debts, Loans, and Guaranties",Plaintiff,2024-08-28,18697.62,SoFi Personal Loan statement,,PDF
+sofi dec 2023.pdf,Loan statement,13,"Debts, Loans, and Guaranties",Plaintiff,2023-12-28,19605.92,SoFi Personal Loan statement,,PDF
+sofi jul 2023.pdf,Loan statement,13,"Debts, Loans, and Guaranties",Plaintiff,2023-07-28,20519.82,SoFi Personal Loan statement,,PDF
+sofi may 2023 - Copy.pdf,Loan statement,13,"Debts, Loans, and Guaranties",Plaintiff,2023-05-28,20938.42,SoFi Personal Loan statement,,PDF
+sofi nov 2023.pdf,Loan statement,13,"Debts, Loans, and Guaranties",Plaintiff,2023-11-28,20121.75,SoFi Personal Loan statement,,PDF
+SONESTA RECEIPT 2023-09.pdf,Purchase receipt,46,"Travel, Vacation, and Entertainment",Plaintiff,2023-09-17,4149.01,"Sonesta Resort Hilton Head receipt, $4,149.01",,PDF
+state automobile dec page 2024 final.pdf,Insurance declarations page,33,Insurance Policies,Joint,2024-03-01,,State Farm Automobile declarations page 2024,,PDF
+state automobile dec page 2025.pdf,Insurance declarations page,33,Insurance Policies,Joint,2025-03-01,,State Farm Automobile declarations page 2025,,PDF
+state homeowner's dec page 2023.pdf,Insurance declarations page,33,Insurance Policies,Joint,2023-03-01,,State Farm Homeowner's declarations page 2023,jewelry,PDF
+state homeowner's dec page 2025.pdf,Insurance declarations page,33,Insurance Policies,Joint,2025-03-01,,State Farm Homeowner's declarations page 2025,jewelry,PDF
+state_homeowner's_dec_page_2024.pdf,Insurance declarations page,33,Insurance Policies,Joint,2024-03-01,,State Farm Homeowner's declarations page 2024,jewelry,PDF
+statement 1.pdf,Third-party account statement,4,Bank and Depository Accounts,Third party,2024-01-25,,Account statement belonging to Jane Elizabeth Doe,wrong_party,PDF
+STATEMENT 10.pdf,Third-party account statement,4,Bank and Depository Accounts,Third party,2024-01-03,,Account statement belonging to Jane Elizabeth Doe,wrong_party,PDF
+statement 2.pdf,Third-party account statement,4,Bank and Depository Accounts,Third party,2025-03-19,,Account statement belonging to Harold R. Doe,wrong_party,PDF
+statement 4 - Copy.pdf,Third-party account statement,4,Bank and Depository Accounts,Third party,2024-08-24,,Account statement belonging to Daniel R. Doe,wrong_party,PDF
+statement 5.pdf,Third-party account statement,4,Bank and Depository Accounts,Third party,2025-11-15,,Account statement belonging to Mara Reyes,wrong_party,PDF
+statement 9.pdf,Third-party account statement,4,Bank and Depository Accounts,Third party,2023-05-22,,Account statement belonging to Daniel R. Doe,wrong_party,PDF
+statement_8.pdf,Third-party account statement,4,Bank and Depository Accounts,Third party,2024-06-20,,Account statement belonging to Jane Elizabeth Doe,wrong_party,PDF
+STORAGE UNIT LEASE EXTRA SPACE.pdf,Storage unit lease,18,Safe Deposit Boxes and Storage,Plaintiff,2025-03-24,228.00,"Storage unit rented after separation, alternate contact is a third party",storage_unit; undisclosed_barclays; gf_transfers,PDF
+STRIPE PAYOUT APR 2024.pdf,Merchant processor payout statement,22,Business Bank and Merchant Accounts,Doe Consulting LLC,2024-04-28,10787.11,Stripe payout summary April 2024,,PDF
+STRIPE PAYOUT AUG 2024.pdf,Merchant processor payout statement,22,Business Bank and Merchant Accounts,Doe Consulting LLC,2024-08-28,3458.07,Stripe payout summary August 2024,,PDF
+stripe payout dec 2023.pdf,Merchant processor payout statement,22,Business Bank and Merchant Accounts,Doe Consulting LLC,2023-12-28,6036.27,Stripe payout summary December 2023,,PDF
+stripe payout dec 2024 final.pdf,Merchant processor payout statement,22,Business Bank and Merchant Accounts,Doe Consulting LLC,2024-12-28,2993.64,Stripe payout summary December 2024,,PDF
+stripe payout feb 2025.pdf,Merchant processor payout statement,22,Business Bank and Merchant Accounts,Doe Consulting LLC,2025-02-28,7585.13,Stripe payout summary February 2025,,PDF
+STRIPE PAYOUT JAN 2023.pdf,Merchant processor payout statement,22,Business Bank and Merchant Accounts,Doe Consulting LLC,2023-01-28,6074.09,Stripe payout summary January 2023,,PDF
+stripe payout jan 2025.pdf,Merchant processor payout statement,22,Business Bank and Merchant Accounts,Doe Consulting LLC,2025-01-28,3434.14,Stripe payout summary January 2025,,PDF
+stripe payout jul 2024.pdf,Merchant processor payout statement,22,Business Bank and Merchant Accounts,Doe Consulting LLC,2024-07-28,3212.51,Stripe payout summary July 2024,,PDF
+stripe payout mar 2025.pdf,Merchant processor payout statement,22,Business Bank and Merchant Accounts,Doe Consulting LLC,2025-03-28,5101.93,Stripe payout summary March 2025,,PDF
+stripe payout sep 2023.pdf,Merchant processor payout statement,22,Business Bank and Merchant Accounts,Doe Consulting LLC,2023-09-28,7294.83,Stripe payout summary September 2023,,PDF
+stripe_payout_apr_2025.pdf,Merchant processor payout statement,22,Business Bank and Merchant Accounts,Doe Consulting LLC,2025-04-28,10449.07,Stripe payout summary April 2025,,PDF
+stuff.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2026-02-28,41200.66,COPY 1 of 2 - Peachtree Federal Credit Union ...4417 February 2026,conflicting_copies; gf_transfers,PDF
+SUGARLOAF OLIVIA 2025-11.pdf,Medical bill / EOB,36,Child-Related Expenses Under the Guidelines,Child,2025-11-11,499.36,Sugarloaf Orthodontics - Statement for Olivia Doe,,PDF
+sugarloaf_jane_2022-06.pdf,Medical bill / EOB,34,"Medical, Dental, and Health Expenses",Defendant,2022-06-27,2071.78,Sugarloaf Orthodontics - Statement for Jane Elizabeth Doe,wrong_party,PDF
+synchrony aug 2023.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2023-08-22,27692.83,Synchrony / Lowe's Advantage ...7745 statement closing 2023-08-22,,PDF
+SYNCHRONY DEC 2025.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2025-12-22,56173.30,Synchrony / Lowe's Advantage ...7745 statement closing 2025-12-22,gf_transfers,PDF
+synchrony jan 2023.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2023-01-22,24059.58,Synchrony / Lowe's Advantage ...7745 statement closing 2023-01-22,,PDF
+synchrony may 2024.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2024-05-22,43488.25,Synchrony / Lowe's Advantage ...7745 statement closing 2024-05-22,,PDF
+synchrony oct 2024.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2024-10-22,47363.65,Synchrony / Lowe's Advantage ...7745 statement closing 2024-10-22,,PDF
+synchrony sep 2024.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2024-09-22,48694.45,Synchrony / Lowe's Advantage ...7745 statement closing 2024-09-22,,PDF
+synchrony_jan_2022.pdf,Credit card statement,5,Credit Cards and Charge Accounts,Plaintiff,2022-01-22,10974.58,Synchrony / Lowe's Advantage ...7745 statement closing 2022-01-22,,PDF
+teachers defined benefit Q1 2021.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Defendant,2021-03-28,33385.59,"Teachers Retirement System of Georgia Defined Benefit statement, quarter ending 2021-03-28",,PDF
+teachers defined benefit Q1 2026.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Defendant,2026-03-28,35376.48,"Teachers Retirement System of Georgia Defined Benefit statement, quarter ending 2026-03-28",,PDF
+TEACHERS DEFINED BENEFIT Q2 2023.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Defendant,2023-06-28,36831.87,"Teachers Retirement System of Georgia Defined Benefit statement, quarter ending 2023-06-28",,PDF
+TEACHERS DEFINED BENEFIT Q3 2024.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Defendant,2024-09-28,36087.04,"Teachers Retirement System of Georgia Defined Benefit statement, quarter ending 2024-09-28",,PDF
+teachers defined benefit Q4 2021.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Defendant,2021-12-28,34975.17,"Teachers Retirement System of Georgia Defined Benefit statement, quarter ending 2021-12-28",,PDF
+teachers defined benefit Q4 2022 updated.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Defendant,2022-12-28,34924.41,"Teachers Retirement System of Georgia Defined Benefit statement, quarter ending 2022-12-28",,PDF
+ticketmaster receipt 2022-04.pdf,Purchase receipt,43,Purchases and Sales Exceeding $100,Plaintiff,2022-04-07,1451.03,"Ticketmaster receipt, $1,451.03",,PDF
+ticketmaster receipt 2023-04.pdf,Purchase receipt,43,Purchases and Sales Exceeding $100,Plaintiff,2023-04-06,7081.45,"Ticketmaster receipt, $7,081.45",,PDF
+TOTAL INCOME SUMMARY 2023.pdf,Statement of all income sources,16,Comprehensive Income Documentation,Plaintiff,2024-02-14,211036.55,CPA-prepared all-sources income statement for 2023,gig_income; sched_c_omitted,PDF
+total income summary 2024.pdf,Statement of all income sources,16,Comprehensive Income Documentation,Plaintiff,2025-02-14,224917.60,CPA-prepared all-sources income statement for 2024,gig_income; sched_c_omitted,PDF
+total receipt 2024-05.pdf,Purchase receipt,43,Purchases and Sales Exceeding $100,Plaintiff,2024-05-05,22623.54,"Total Wine & More receipt, $22,623.54",,PDF
+total_income_summary_2025.pdf,Statement of all income sources,16,Comprehensive Income Documentation,Plaintiff,2026-02-14,239838.20,CPA-prepared all-sources income statement for 2025,gig_income; sched_c_omitted,PDF
+tourneau receipt 2025-09.pdf,Purchase receipt,44,"Collectibles, Precious Metals, and Valuables",Plaintiff,2025-09-09,6007.16,"Tourneau receipt, $6,007.16",jewelry,PDF
+tourneau receipt 2025-11.pdf,Purchase receipt,44,"Collectibles, Precious Metals, and Valuables",Plaintiff,2025-11-02,9691.85,"Tourneau receipt, $9,691.85",jewelry,PDF
+TOURNEAU RECEIPT 2026-01.pdf,Purchase receipt,44,"Collectibles, Precious Metals, and Valuables",Plaintiff,2026-01-25,12277.85,"Tourneau receipt, $12,277.85",jewelry; gf_transfers,PDF
+truist checking apr 2023 (2).pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2023-04-28,2370.56,DUPLICATE of truist checking apr 2023.pdf,duplicate,PDF
+truist checking apr 2023.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2023-04-28,2370.56,Truist Bank Checking ...8802 statement April 2023,,PDF
+truist checking apr 2024_1.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-04-28,10623.39,DUPLICATE of truist checking apr 2024.pdf,duplicate,PDF
+truist checking aug 2024 (2).pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-08-28,18660.90,COPY 2 of 2 CONFLICTS - Truist Bank ...8802 August 2024,conflicting_copies,PDF
+truist checking aug 2024.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-08-28,9210.44,COPY 1 of 2 - Truist Bank ...8802 August 2024,conflicting_copies,PDF
+truist checking dec 2023.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2023-12-28,-798.14,Truist Bank Checking ...8802 statement December 2023,overdrawn,PDF
+truist checking dec 2024.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-12-28,12075.36,Truist Bank Checking ...8802 statement December 2024,undisclosed_ally,PDF
+truist checking feb 2022.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2022-02-28,2933.57,Truist Bank Checking ...8802 statement February 2022,overdrawn,PDF
+truist checking feb 2024.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-02-28,-401.71,Truist Bank Checking ...8802 statement February 2024,overdrawn,PDF
+TRUIST CHECKING FEB 2026.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2026-02-28,-15018.72,Truist Bank Checking ...8802 statement February 2026,overdrawn,PDF
+truist checking feb 2026_1.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2026-02-28,-15018.72,DUPLICATE of TRUIST CHECKING FEB 2026.pdf,overdrawn; duplicate,PDF
+truist checking jan 2024.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-01-28,-800.51,Truist Bank Checking ...8802 statement January 2024,overdrawn,PDF
+truist checking jan 2026.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2026-01-28,-12512.00,Truist Bank Checking ...8802 statement January 2026,cash_withdrawals; gf_transfers; overdrawn,PDF
+truist checking jun 2023.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2023-06-28,4457.37,Truist Bank Checking ...8802 statement June 2023,,PDF
+truist checking jun 2024.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-06-28,10729.53,Truist Bank Checking ...8802 statement June 2024,undisclosed_ally,PDF
+truist checking mar 2022 FINAL.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2022-03-28,5798.14,DUPLICATE of truist checking mar 2022.pdf,duplicate,PDF
+truist checking mar 2022.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2022-03-28,5798.14,Truist Bank Checking ...8802 statement March 2022,,PDF
+truist checking nov 2025.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2025-11-28,-5373.73,Truist Bank Checking ...8802 statement November 2025,cash_withdrawals; gf_transfers; undisclosed_coinbase; overdrawn,PDF
+truist checking oct 2023 updated_1.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2023-10-28,1744.17,DUPLICATE of truist checking oct 2023 updated.pdf,duplicate,PDF
+truist checking sep 2021.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2021-09-28,1599.86,Truist Bank Checking ...8802 statement September 2021,,PDF
+truist checking sep 2023.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2023-09-28,5812.98,Truist Bank Checking ...8802 statement September 2023,,PDF
+truist checking transactions 2023.csv,Bank transaction export,4,Bank and Depository Accounts,Plaintiff,2023-12-31,,Truist Bank ...8802 2023 transaction download,,CSV
+truist checking transactions 2024.csv,Bank transaction export,4,Bank and Depository Accounts,Plaintiff,2024-12-31,,Truist Bank ...8802 2024 transaction download,,CSV
+truist checking transactions 2025.xlsx,Bank transaction export,4,Bank and Depository Accounts,Plaintiff,2025-12-31,,Truist Bank ...8802 2025 transaction download,,XLSX
+truist combined 2021 (2).pdf,Combined multi-period bank statements,4,Bank and Depository Accounts,Plaintiff,2021-03-31,,Three statement periods combined into a single PDF - needs splitting,combined,PDF
+TRUIST COMBINED 2021.pdf,Combined multi-period bank statements,4,Bank and Depository Accounts,Plaintiff,2021-03-31,,Three statement periods combined into a single PDF - needs splitting,combined,PDF
+truist combined 2022.pdf,Combined multi-period bank statements,4,Bank and Depository Accounts,Plaintiff,2022-03-31,,Three statement periods combined into a single PDF - needs splitting,combined,PDF
+truist download.qfx,OFX/QFX bank download,4,Bank and Depository Accounts,Plaintiff,2025-12-31,,Truist Bank ...8802 Quicken download file,,QFX
+truist heloc apr 2024 updated.pdf,HELOC statement,11,"Mortgage, HELOC, and Home Equity Records",Joint,2024-04-28,0.00,Truist HELOC statement,,PDF
+TRUIST HELOC AUG 2024.pdf,HELOC statement,11,"Mortgage, HELOC, and Home Equity Records",Joint,2024-08-28,0.00,Truist HELOC statement,,PDF
+truist heloc dec 2023.pdf,HELOC statement,11,"Mortgage, HELOC, and Home Equity Records",Joint,2023-12-28,0.00,Truist HELOC statement,,PDF
+truist heloc jan 2023 (1).pdf,HELOC statement,11,"Mortgage, HELOC, and Home Equity Records",Joint,2023-01-28,0.00,Truist HELOC statement,,PDF
+truist heloc jan 2025 copy.pdf,HELOC statement,11,"Mortgage, HELOC, and Home Equity Records",Joint,2025-01-28,0.00,Truist HELOC statement,,PDF
+truist heloc jul 2024.pdf,HELOC statement,11,"Mortgage, HELOC, and Home Equity Records",Joint,2024-07-28,0.00,Truist HELOC statement,,PDF
+truist heloc mar 2025.pdf,HELOC statement,11,"Mortgage, HELOC, and Home Equity Records",Joint,2025-03-28,0.00,Truist HELOC statement,,PDF
+truist heloc may 2023.pdf,HELOC statement,11,"Mortgage, HELOC, and Home Equity Records",Joint,2023-05-28,0.00,Truist HELOC statement,,PDF
+truist heloc nov 2024.pdf,HELOC statement,11,"Mortgage, HELOC, and Home Equity Records",Joint,2024-11-28,0.00,Truist HELOC statement,,PDF
+truist heloc nov 2025.pdf,HELOC statement,11,"Mortgage, HELOC, and Home Equity Records",Joint,2025-11-28,0.00,Truist HELOC statement,,PDF
+truist heloc oct 2025.pdf,HELOC statement,11,"Mortgage, HELOC, and Home Equity Records",Joint,2025-10-28,0.00,Truist HELOC statement,,PDF
+truist heloc sep 2024.pdf,HELOC statement,11,"Mortgage, HELOC, and Home Equity Records",Joint,2024-09-28,0.00,Truist HELOC statement,,PDF
+truist savings apr 2021.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2021-04-28,8142.00,Truist Bank Savings ...8819 statement April 2021,,PDF
+truist savings aug 2023.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2023-08-28,-38413.24,Truist Bank Savings ...8819 statement August 2023,overdrawn,PDF
+truist savings aug 2024.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-08-28,-80160.22,Truist Bank Savings ...8819 statement August 2024,overdrawn,PDF
+truist savings aug 2025.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2025-08-28,-103376.27,Truist Bank Savings ...8819 statement August 2025,overdrawn,PDF
+truist savings aug 2025_1.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2025-08-28,-103376.27,DUPLICATE of truist savings aug 2025.pdf,overdrawn; duplicate,PDF
+truist savings dec 2021.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2021-12-28,-4103.45,Truist Bank Savings ...8819 statement December 2021,overdrawn,PDF
+TRUIST SAVINGS DEC 2024 COPY.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-12-28,-88019.62,DUPLICATE of truist savings dec 2024.pdf,overdrawn; duplicate,PDF
+truist savings dec 2024.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-12-28,-88019.62,Truist Bank Savings ...8819 statement December 2024,overdrawn,PDF
+truist savings dec 2025.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2025-12-28,-114518.55,Truist Bank Savings ...8819 statement December 2025,overdrawn,PDF
+truist savings feb 2022.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2022-02-28,-9593.65,Truist Bank Savings ...8819 statement February 2022,overdrawn,PDF
+truist savings jun 2024.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-06-28,-62435.51,Truist Bank Savings ...8819 statement June 2024,overdrawn,PDF
+TRUIST SAVINGS MAR 2024 - COPY.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-03-28,-50732.74,DUPLICATE of truist savings mar 2024.pdf,overdrawn; duplicate,PDF
+truist savings mar 2024.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-03-28,-50732.74,Truist Bank Savings ...8819 statement March 2024,overdrawn,PDF
+truist savings mar 2026.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2026-03-28,-121606.38,Truist Bank Savings ...8819 statement March 2026,overdrawn,PDF
+truist savings may 2022 (2).pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2022-05-28,-15369.86,DUPLICATE of truist savings may 2022.pdf,overdrawn; duplicate,PDF
+truist savings may 2022.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2022-05-28,-15369.86,Truist Bank Savings ...8819 statement May 2022,overdrawn,PDF
+truist savings may 2023.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2023-05-28,-29857.12,Truist Bank Savings ...8819 statement May 2023,overdrawn,PDF
+truist savings may 2024 copy.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-05-28,-56817.32,Truist Bank Savings ...8819 statement May 2024,overdrawn,PDF
+truist savings may 2025.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2025-05-28,-98237.53,Truist Bank Savings ...8819 statement May 2025,overdrawn,PDF
+truist savings nov 2025.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2025-11-28,-117064.88,Truist Bank Savings ...8819 statement November 2025,overdrawn,PDF
+truist savings oct 2025 - Copy.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2025-10-28,-104452.93,DUPLICATE of truist savings oct 2025.pdf,overdrawn; duplicate,PDF
+truist savings oct 2025.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2025-10-28,-104452.93,Truist Bank Savings ...8819 statement October 2025,overdrawn,PDF
+truist savings sep 2023.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2023-09-28,-44875.50,Truist Bank Savings ...8819 statement September 2023,overdrawn,PDF
+truist savings transactions 2023.xlsx,Bank transaction export,4,Bank and Depository Accounts,Plaintiff,2023-12-31,,Truist Bank ...8819 2023 transaction download,,XLSX
+truist savings transactions 2024.csv,Bank transaction export,4,Bank and Depository Accounts,Plaintiff,2024-12-31,,Truist Bank ...8819 2024 transaction download,,CSV
+truist_checking_mar_2024 - copy (2).pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-03-28,4877.13,DUPLICATE of truist_checking_mar_2024.pdf,undisclosed_ally; overdrawn; duplicate,PDF
+truist_checking_mar_2024.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-03-28,4877.13,Truist Bank Checking ...8802 statement March 2024,undisclosed_ally; overdrawn,PDF
+truist_heloc_nov_2023.pdf,HELOC statement,11,"Mortgage, HELOC, and Home Equity Records",Joint,2023-11-28,0.00,Truist HELOC statement,,PDF
+TRUIST_SAVINGS_AUG_2022 - COPY.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2022-08-28,-17167.01,DUPLICATE of truist_savings_aug_2022.pdf,overdrawn; duplicate,PDF
+truist_savings_aug_2022.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2022-08-28,-17167.01,Truist Bank Savings ...8819 statement August 2022,overdrawn,PDF
+truist_savings_jul_2024 final.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-07-28,-72955.64,DUPLICATE of truist_savings_jul_2024.pdf,overdrawn; duplicate,PDF
+truist_savings_jul_2024.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-07-28,-72955.64,Truist Bank Savings ...8819 statement July 2024,overdrawn,PDF
+truist_savings_nov_2023.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2023-11-28,19880.42,COPY 2 of 2 CONFLICTS - Truist Bank ...8819 November 2023,conflicting_copies,PDF
+truist_savings_oct_2022.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2022-10-28,-22436.16,Truist Bank Savings ...8819 statement October 2022,overdrawn,PDF
+UNIT 2208 - AUTOPAY DECLINED.eml,Email,18,Safe Deposit Boxes and Storage,Plaintiff,2026-02-18,,Email: Unit 2208 - autopay declined,storage_unit; undisclosed_barclays,EML
+unknown.heic,Photograph,18,Safe Deposit Boxes and Storage,Plaintiff,2026-08-02,,Storage unit 2208 interior,storage_unit,HEIC
+unknown.pdf,Pay stub,2,Wage and Earnings Records,Plaintiff,2024-09-16,3989.72,"Summit Freight Systems, LLC earnings statement, pay date 2024-09-16",,PDF
+untitled (10).pdf,Medical bill / EOB,36,Child-Related Expenses Under the Guidelines,Child,2022-12-23,816.21,CVS Pharmacy #4471 - Statement for Ethan Doe,,PDF
+untitled (11).pdf,Utility bill,31,"Utility, Cable, and Household Service Accounts",Joint,2024-04-28,317.03,Vivint Smart Home Home Security bill,,PDF
+untitled (12).png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2026-11-18,,Screenshot of text thread with Jane,,PNG
+untitled (13).png,Text message screenshot,4,Bank and Depository Accounts,Plaintiff,2025-08-27,,Screenshot of text thread with Jane,statement_gap,PNG
+untitled (14).png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2024-02-02,,Screenshot of text thread with Jane,,PNG
+untitled (15).png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2026-11-27,,Screenshot of text thread with Mom,,PNG
+untitled (16).png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2025-03-09,,Screenshot of text thread with Kevin A,,PNG
+untitled (17).png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2025-01-19,,Screenshot of text thread with Tia (sitter),,PNG
+untitled (18).png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2024-01-23,,Screenshot of text thread with Kevin A,,PNG
+untitled (19).png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2026-07-28,,Screenshot of text thread with Unknown,,PNG
+untitled (2) - Copy.pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-11-28,13746.00,DUPLICATE of untitled (2).pdf,undisclosed_coinbase; duplicate,PDF
+untitled (2).pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2024-11-28,13746.00,Truist Bank Checking ...8802 statement November 2024,undisclosed_coinbase,PDF
+untitled (20).png,Text message screenshot,49,Communications Between the Parties and Third Parties,Plaintiff,2026-11-19,,Screenshot of text thread with Unknown,,PNG
+untitled (21).jpg,Photograph,9,Real Property Ownership,Plaintiff,2025-02-12,,Kitchen renovation - post,,JPG
+untitled (22).jpg,Photograph,12,"Vehicles, Boats, and Titled Property",Plaintiff,2025-09-23,,"2022 Ford F-150 - odometer 41,220",,JPG
+untitled (23).jpg,Photograph,44,"Collectibles, Precious Metals, and Valuables",Plaintiff,2024-08-23,,Yamaha 242X at Lake Lanier slip,jewelry,JPG
+untitled (24).jpg,Photograph,46,"Travel, Vacation, and Entertainment",Plaintiff,2024-07-17,,Cabo San Lucas - Hotel El Ganzo,gf_transfers,JPG
+untitled (25).pdf,Charitable contribution statement,48,Charitable Contributions and Memberships,Joint,2026-01-20,4931.52,2025 annual giving statement,,PDF
+untitled (26).pdf,Combined multi-period bank statements,4,Bank and Depository Accounts,Plaintiff,2023-03-31,,Three statement periods combined into a single PDF - needs splitting,combined,PDF
+untitled (27).pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2026-03-28,-30589.62,DUPLICATE of PEACHTREE MONEY MARKET MAR 2026.pdf,overdrawn; duplicate,PDF
+untitled (3).pdf,Bank statement,4,Bank and Depository Accounts,Plaintiff,2025-03-28,-91972.44,Truist Bank Savings ...8819 statement March 2025,overdrawn,PDF
+untitled (5).pdf,Georgia state income tax return (Form 500),1,Tax Returns,Joint,2023-04-12,140600.00,2022 Georgia Form 500,,PDF
+untitled (6).pdf,Form 1099-B,2,Wage and Earnings Records,Plaintiff,2026-01-31,24180.00,2025 Form 1099-B from Robinhood Securities LLC,undisclosed_robinhood,PDF
+untitled (7).pdf,Brokerage account statement,8,Brokerage and Securities Accounts,Plaintiff,2025-07-28,71210.90,Fidelity Investments Z2214477 statement,,PDF
+untitled (8).pdf,Property tax bill,15,Ad Valorem and Property Tax Notices,Joint,2022-09-15,4612.16,"2022 Gwinnett County ad valorem tax bill, FMV $406,000.00",,PDF
+untitled (9).pdf,Insurance declarations page,33,Insurance Policies,Joint,2023-03-01,,State Farm Automobile declarations page 2023,,PDF
+UNUM LONG-TERM DEC PAGE 2023.pdf,Insurance declarations page,33,Insurance Policies,Joint,2023-03-01,,Unum Long-Term Disability declarations page 2023,,PDF
+unum long-term dec page 2024.pdf,Insurance declarations page,33,Insurance Policies,Joint,2024-03-01,,Unum Long-Term Disability declarations page 2024,,PDF
+unum long-term dec page 2025.pdf,Insurance declarations page,33,Insurance Policies,Joint,2025-03-01,,Unum Long-Term Disability declarations page 2025,,PDF
+unum long-term dec page 2026.pdf,Insurance declarations page,33,Insurance Policies,Joint,2026-03-01,,Unum Long-Term Disability declarations page 2026,,PDF
+vanguard rollover ira Q1 2021.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2021-03-28,100589.92,"Vanguard Rollover IRA statement, quarter ending 2021-03-28",,PDF
+vanguard rollover ira Q1 2022.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2022-03-28,104807.15,"Vanguard Rollover IRA statement, quarter ending 2022-03-28",,PDF
+vanguard rollover ira q1 2023.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2023-03-28,109363.70,"Vanguard Rollover IRA statement, quarter ending 2023-03-28",,PDF
+vanguard rollover ira q1 2025.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2025-03-28,113606.91,"Vanguard Rollover IRA statement, quarter ending 2025-03-28",,PDF
+vanguard rollover ira Q2 2021.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2021-06-28,98732.51,"Vanguard Rollover IRA statement, quarter ending 2021-06-28",,PDF
+vanguard rollover ira q2 2022.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2022-06-28,110046.61,"Vanguard Rollover IRA statement, quarter ending 2022-06-28",,PDF
+vanguard rollover ira q2 2023.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2023-06-28,113148.65,"Vanguard Rollover IRA statement, quarter ending 2023-06-28",,PDF
+vanguard rollover ira Q2 2024.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2024-06-28,112902.76,"Vanguard Rollover IRA statement, quarter ending 2024-06-28",,PDF
+vanguard rollover ira Q3 2022 updated.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2022-09-28,111781.67,"Vanguard Rollover IRA statement, quarter ending 2022-09-28",,PDF
+vanguard rollover ira Q3 2023.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2023-09-28,112521.54,"Vanguard Rollover IRA statement, quarter ending 2023-09-28",,PDF
+vanguard rollover ira Q4 2021.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2021-12-28,102019.91,"Vanguard Rollover IRA statement, quarter ending 2021-12-28",,PDF
+vanguard rollover ira Q4 2023.pdf,Retirement account statement,3,Retirement and Deferred Compensation,Plaintiff,2023-12-28,115159.80,"Vanguard Rollover IRA statement, quarter ending 2023-12-28",,PDF
+venmo history Q1 2022.pdf,Peer-to-peer payment history,6,Peer-to-Peer Payment and Digital Wallet Records,Plaintiff,2022-03-28,,Venmo transaction history 2022-01-01 to 2022-03-28,,PDF
+VENMO HISTORY Q1 2024.pdf,Peer-to-peer payment history,6,Peer-to-Peer Payment and Digital Wallet Records,Plaintiff,2024-03-28,,Venmo transaction history 2024-01-01 to 2024-03-28,,PDF
+venmo history q2 2023.pdf,Peer-to-peer payment history,6,Peer-to-Peer Payment and Digital Wallet Records,Plaintiff,2023-06-28,,Venmo transaction history 2023-04-01 to 2023-06-28,,PDF
+venmo history Q2 2024.pdf,Peer-to-peer payment history,6,Peer-to-Peer Payment and Digital Wallet Records,Plaintiff,2024-06-28,,Venmo transaction history 2024-04-01 to 2024-06-28,,PDF
+venmo history Q2 2025.pdf,Peer-to-peer payment history,6,Peer-to-Peer Payment and Digital Wallet Records,Plaintiff,2025-06-28,,Venmo transaction history 2025-04-01 to 2025-06-28,gf_transfers,PDF
+venmo history Q3 2022.pdf,Peer-to-peer payment history,6,Peer-to-Peer Payment and Digital Wallet Records,Plaintiff,2022-09-28,,Venmo transaction history 2022-07-01 to 2022-09-28,,PDF
+venmo history q3 2023.pdf,Peer-to-peer payment history,6,Peer-to-Peer Payment and Digital Wallet Records,Plaintiff,2023-09-28,,Venmo transaction history 2023-07-01 to 2023-09-28,,PDF
+venmo history q4 2022.pdf,Peer-to-peer payment history,6,Peer-to-Peer Payment and Digital Wallet Records,Plaintiff,2022-12-28,,Venmo transaction history 2022-10-01 to 2022-12-28,,PDF
+venmo history Q4 2023.pdf,Peer-to-peer payment history,6,Peer-to-Peer Payment and Digital Wallet Records,Plaintiff,2023-12-28,,Venmo transaction history 2023-10-01 to 2023-12-28,,PDF
+venmo history Q4 2024.pdf,Peer-to-peer payment history,6,Peer-to-Peer Payment and Digital Wallet Records,Plaintiff,2024-12-28,,Venmo transaction history 2024-10-01 to 2024-12-28,,PDF
+venmo history Q4 2025.pdf,Peer-to-peer payment history,6,Peer-to-Peer Payment and Digital Wallet Records,Plaintiff,2025-12-28,,Venmo transaction history 2025-10-01 to 2025-12-28,gf_transfers,PDF
+verizon apr 2024.pdf,Cell phone bill with call detail,32,Cellular Telephone Records,Joint,2024-04-28,215.39,Verizon Wireless statement,,PDF
+verizon aug 2024.pdf,Cell phone bill with call detail,32,Cellular Telephone Records,Joint,2024-08-28,268.78,Verizon Wireless statement,,PDF
+verizon dec 2025.pdf,Cell phone bill with call detail,32,Cellular Telephone Records,Joint,2025-12-28,228.32,Verizon Wireless statement,,PDF
+verizon feb 2025.pdf,Cell phone bill with call detail,32,Cellular Telephone Records,Joint,2025-02-28,275.21,Verizon Wireless statement,,PDF
+verizon jan 2023 updated.pdf,Cell phone bill with call detail,32,Cellular Telephone Records,Joint,2023-01-28,266.82,Verizon Wireless statement,,PDF
+verizon jan 2025.pdf,Cell phone bill with call detail,32,Cellular Telephone Records,Joint,2025-01-28,278.94,Verizon Wireless statement,,PDF
+verizon jul 2024.pdf,Cell phone bill with call detail,32,Cellular Telephone Records,Joint,2024-07-28,289.31,Verizon Wireless statement,,PDF
+verizon jun 2024 revised.pdf,Cell phone bill with call detail,32,Cellular Telephone Records,Joint,2024-06-28,322.31,Verizon Wireless statement,,PDF
+verizon jun 2025.pdf,Cell phone bill with call detail,32,Cellular Telephone Records,Joint,2025-06-28,341.28,Verizon Wireless statement,,PDF
+verizon mar 2024.pdf,Cell phone bill with call detail,32,Cellular Telephone Records,Joint,2024-03-28,242.59,Verizon Wireless statement,,PDF
+VERIZON MAR 2025.pdf,Cell phone bill with call detail,32,Cellular Telephone Records,Joint,2025-03-28,331.84,Verizon Wireless statement,,PDF
+verizon mar 2026.pdf,Cell phone bill with call detail,32,Cellular Telephone Records,Joint,2026-03-28,257.87,Verizon Wireless statement,,PDF
+VERIZON NOV 2025.pdf,Cell phone bill with call detail,32,Cellular Telephone Records,Joint,2025-11-28,248.76,Verizon Wireless statement,,PDF
+verizon oct 2023.pdf,Cell phone bill with call detail,32,Cellular Telephone Records,Joint,2023-10-28,278.24,Verizon Wireless statement,,PDF
+verizon_feb_2026.pdf,Cell phone bill with call detail,32,Cellular Telephone Records,Joint,2026-02-28,276.87,Verizon Wireless statement,,PDF
+verizon_may_2025 final.pdf,Cell phone bill with call detail,32,Cellular Telephone Records,Joint,2025-05-28,279.42,Verizon Wireless statement,,PDF
+verizon_sep_2024.pdf,Cell phone bill with call detail,32,Cellular Telephone Records,Joint,2024-09-28,330.21,Verizon Wireless statement,,PDF
+VIVINT MAR 2024.pdf,Utility bill,31,"Utility, Cable, and Household Service Accounts",Joint,2024-03-28,245.17,Vivint Smart Home Home Security bill,,PDF
+VIVINT OCT 2023.pdf,Utility bill,31,"Utility, Cable, and Household Service Accounts",Joint,2023-10-28,52.89,Vivint Smart Home Home Security bill,,PDF
+W2 2021 Acme.pdf,Form W-2,2,Wage and Earnings Records,Plaintiff,2022-01-31,118400.00,"2021 W-2 from Acme Logistics, Inc.",,PDF
+W2 2022 ACME.pdf,Form W-2,2,Wage and Earnings Records,Plaintiff,2023-01-31,127300.00,"2022 W-2 from Acme Logistics, Inc.",,PDF
+W2 2024 Summit revised.pdf,Form W-2,2,Wage and Earnings Records,Plaintiff,2025-01-31,151200.00,"2024 W-2 from Summit Freight Systems, LLC",,PDF
+W2 2025 Summit.pdf,Form W-2,2,Wage and Earnings Records,Plaintiff,2026-01-31,163400.00,"2025 W-2 from Summit Freight Systems, LLC",,PDF
+W2_2023_Acme.pdf,Form W-2,2,Wage and Earnings Records,Plaintiff,2024-01-31,139850.00,"2023 W-2 from Acme Logistics, Inc.",,PDF
+Wire confirmation (2).eml,Email,49,Communications Between the Parties and Third Parties,Third party,2026-03-10,,Routine notification email: Wire confirmation,,EML
+Wire confirmation.eml,Email,49,Communications Between the Parties and Third Parties,Third party,2026-03-10,,Routine notification email: Wire confirmation,,EML
+witness_list_draft.txt,Correspondence,49,Communications Between the Parties and Third Parties,Plaintiff,2026-03-17,,PRELIMINARY WITNESS LIST,,TXT
+xfinity jun 2023.pdf,Utility bill,31,"Utility, Cable, and Household Service Accounts",Joint,2023-06-28,322.08,Xfinity Internet and Cable bill,,PDF
+xfinity nov 2023.pdf,Utility bill,31,"Utility, Cable, and Household Service Accounts",Joint,2023-11-28,222.52,Xfinity Internet and Cable bill,,PDF
+XFINITY NOV 2024.pdf,Utility bill,31,"Utility, Cable, and Household Service Accounts",Joint,2024-11-28,105.60,Xfinity Internet and Cable bill,,PDF
+xfinity_jun_2024.pdf,Utility bill,31,"Utility, Cable, and Household Service Accounts",Joint,2024-06-28,147.94,Xfinity Internet and Cable bill,,PDF
+yamaha certificate.pdf,Certificate of Title,12,"Vehicles, Boats, and Titled Property",Plaintiff,2023-05-02,41000.00,Certificate of Title for 2019 Yamaha 242X E-Series Boat and Trailer,,PDF
+yamaha tag.pdf,Tag and Registration Certificate,12,"Vehicles, Boats, and Titled Property",Plaintiff,2023-05-02,41000.00,Tag and Registration Certificate for 2019 Yamaha 242X E-Series Boat and Trailer,,PDF
+your 2025 earnings summary.eml,Email,17,"Gig, Platform, and Side Income",Plaintiff,2026-02-18,,Email: Your 2025 earnings summary,gig_income,EML
+Your Ally Bank statement is ready.eml,Email,4,Bank and Depository Accounts,Plaintiff,2025-05-06,,Email: Your Ally Bank statement is ready,undisclosed_ally,EML
+Your policy renewal (2).eml,Email,49,Communications Between the Parties and Third Parties,Third party,2025-06-19,,Routine notification email: Your policy renewal,,EML
+Your policy renewal.eml,Email,49,Communications Between the Parties and Third Parties,Third party,2025-05-06,,Routine notification email: Your policy renewal,,EML
+Your receipt from Delta (2).eml,Email,49,Communications Between the Parties and Third Parties,Third party,2025-06-21,,Routine notification email: Your receipt from Delta,,EML
+YOUR RECEIPT FROM DELTA - Copy.eml,Email,49,Communications Between the Parties and Third Parties,Third party,2026-03-03,,Routine notification email: Your receipt from Delta,,EML
+Your receipt from Delta.eml,Email,49,Communications Between the Parties and Third Parties,Third party,2025-04-01,,Routine notification email: Your receipt from Delta,,EML
+Your statement is ready (2).eml,Email,49,Communications Between the Parties and Third Parties,Third party,2025-09-12,,Routine notification email: Your statement is ready,,EML
+YOUR STATEMENT IS READY (3).eml,Email,49,Communications Between the Parties and Third Parties,Third party,2024-01-20,,Routine notification email: Your statement is ready,,EML
+Your statement is ready (4).eml,Email,49,Communications Between the Parties and Third Parties,Third party,2025-06-27,,Routine notification email: Your statement is ready,,EML
+Your statement is ready (5).eml,Email,49,Communications Between the Parties and Third Parties,Third party,2026-03-10,,Routine notification email: Your statement is ready,,EML
+Your statement is ready (6).eml,Email,49,Communications Between the Parties and Third Parties,Third party,2026-03-10,,Routine notification email: Your statement is ready,,EML
+Your statement is ready (7).eml,Email,49,Communications Between the Parties and Third Parties,Third party,2026-03-10,,Routine notification email: Your statement is ready,,EML
+Your statement is ready (8).eml,Email,49,Communications Between the Parties and Third Parties,Third party,2024-01-10,,Routine notification email: Your statement is ready,,EML
+your statement is ready.eml,Email,49,Communications Between the Parties and Third Parties,Third party,2026-03-10,,Routine notification email: Your statement is ready,,EML
+your tax documents are available (2).eml,Email,49,Communications Between the Parties and Third Parties,Third party,2025-10-06,,Routine notification email: Your tax documents are available,,EML
+Your tax documents are available.eml,Email,49,Communications Between the Parties and Third Parties,Third party,2024-02-03,,Routine notification email: Your tax documents are available,,EML
+zelle from Jane 2025-11.pdf,Transfer confirmation - payment from opposing party,28,Payments Received From the Defendant,Defendant,2025-11-09,675.00,Zelle received from the Defendant,,PDF
+zelle from Jane 2026-02.pdf,Transfer confirmation - payment from opposing party,28,Payments Received From the Defendant,Defendant,2026-02-20,1200.00,Zelle received from the Defendant,,PDF
+zelle history Q1 2022.pdf,Peer-to-peer payment history,6,Peer-to-Peer Payment and Digital Wallet Records,Plaintiff,2022-03-28,,Zelle via Truist transaction history 2022-01-01 to 2022-03-28,,PDF
+zelle history Q1 2024.pdf,Peer-to-peer payment history,6,Peer-to-Peer Payment and Digital Wallet Records,Plaintiff,2024-03-28,,Zelle via Truist transaction history 2024-01-01 to 2024-03-28,,PDF
+zelle history Q1 2025.pdf,Peer-to-peer payment history,6,Peer-to-Peer Payment and Digital Wallet Records,Plaintiff,2025-03-28,,Zelle via Truist transaction history 2025-01-01 to 2025-03-28,gf_transfers,PDF
+zelle history Q1 2026.pdf,Peer-to-peer payment history,6,Peer-to-Peer Payment and Digital Wallet Records,Plaintiff,2026-03-28,,Zelle via Truist transaction history 2026-01-01 to 2026-03-28,gf_transfers,PDF
+ZELLE HISTORY Q2 2025 copy.pdf,Peer-to-peer payment history,6,Peer-to-Peer Payment and Digital Wallet Records,Plaintiff,2025-06-28,,Zelle via Truist transaction history 2025-04-01 to 2025-06-28,gf_transfers,PDF
+zelle history Q3 2022.pdf,Peer-to-peer payment history,6,Peer-to-Peer Payment and Digital Wallet Records,Plaintiff,2022-09-28,,Zelle via Truist transaction history 2022-07-01 to 2022-09-28,,PDF
+zelle history Q3 2024.pdf,Peer-to-peer payment history,6,Peer-to-Peer Payment and Digital Wallet Records,Plaintiff,2024-09-28,,Zelle via Truist transaction history 2024-07-01 to 2024-09-28,,PDF
+zelle history q4 2024.pdf,Peer-to-peer payment history,6,Peer-to-Peer Payment and Digital Wallet Records,Plaintiff,2024-12-28,,Zelle via Truist transaction history 2024-10-01 to 2024-12-28,,PDF
+zelle_from_Jane_2025-04.pdf,Transfer confirmation - payment from opposing party,28,Payments Received From the Defendant,Defendant,2025-04-11,1200.00,Zelle received from the Defendant,,PDF
